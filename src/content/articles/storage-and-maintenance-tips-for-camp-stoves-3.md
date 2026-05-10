@@ -1,8 +1,8 @@
 ---
 title: Storage and maintenance tips for camp-stoves (3)
 metaDescription: A practical CampDeck guide to choosing camp-stoves with fewer regrets.
-publishedAt: '2026-05-04'
-pubDate: '2026-05-04'
+publishedAt: '2026-05-03'
+pubDate: '2026-05-03'
 updatedAt: '2026-05-01'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing camp-stoves options for campdeck.app.

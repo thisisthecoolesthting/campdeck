@@ -42,7 +42,7 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [Best tents upgrades for small spaces](/articles/best-tents-upgrades-for-small-spaces/)
-- [sleeping-bags buying mistakes to avoid](/articles/sleeping-bags-buying-mistakes-to-avoid/)
-- [How to compare backpacks before you buy](/articles/how-to-compare-backpacks-before-you-buy/)
-- [Budget versus premium camp-stoves: what actually matters](/articles/budget-versus-premium-camp-stoves-what-actually-matters/)
+- [A practical camp-lighting gift guide (3)](/articles/a-practical-camp-lighting-gift-guide-3/)
+- [A practical trekking-poles gift guide](/articles/a-practical-trekking-poles-gift-guide/)
+- [backpacks setup checklist for beginners (2)](/articles/backpacks-setup-checklist-for-beginners-2/)
+- [Best camp-chairs upgrades for small spaces (2)](/articles/best-camp-chairs-upgrades-for-small-spaces-2/)

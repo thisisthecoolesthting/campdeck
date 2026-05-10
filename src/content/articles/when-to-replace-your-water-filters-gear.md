@@ -1,8 +1,8 @@
 ---
 title: When to replace your water-filters gear
 metaDescription: A practical CampDeck guide to choosing water-filters with fewer regrets.
-publishedAt: '2026-05-01'
-pubDate: '2026-05-01'
+publishedAt: '2026-04-30'
+pubDate: '2026-04-30'
 updatedAt: '2026-05-08'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing water-filters options for campdeck.app.
@@ -42,7 +42,7 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [Best tents upgrades for small spaces](/articles/best-tents-upgrades-for-small-spaces/)
-- [sleeping-bags buying mistakes to avoid](/articles/sleeping-bags-buying-mistakes-to-avoid/)
-- [How to compare backpacks before you buy](/articles/how-to-compare-backpacks-before-you-buy/)
-- [Budget versus premium camp-stoves: what actually matters](/articles/budget-versus-premium-camp-stoves-what-actually-matters/)
+- [A practical camp-cookware gift guide (2)](/articles/a-practical-camp-cookware-gift-guide-2/)
+- [A practical camp-lighting gift guide (3)](/articles/a-practical-camp-lighting-gift-guide-3/)
+- [A practical trekking-poles gift guide](/articles/a-practical-trekking-poles-gift-guide/)
+- [backpacks setup checklist for beginners (2)](/articles/backpacks-setup-checklist-for-beginners-2/)

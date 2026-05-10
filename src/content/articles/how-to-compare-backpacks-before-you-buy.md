@@ -1,8 +1,8 @@
 ---
 title: How to compare backpacks before you buy
 metaDescription: A practical CampDeck guide to choosing backpacks with fewer regrets.
-publishedAt: '2026-05-07'
-pubDate: '2026-05-07'
+publishedAt: '2026-05-06'
+pubDate: '2026-05-06'
 updatedAt: '2026-05-10'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing backpacks options for campdeck.app.

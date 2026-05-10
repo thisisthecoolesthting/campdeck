@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [How to compare backpacks before you buy](/articles/how-to-compare-backpacks-before-you-buy/)
 - [backpacks setup checklist for beginners (2)](/articles/backpacks-setup-checklist-for-beginners-2/)
+- [How to compare backpacks before you buy](/articles/how-to-compare-backpacks-before-you-buy/)

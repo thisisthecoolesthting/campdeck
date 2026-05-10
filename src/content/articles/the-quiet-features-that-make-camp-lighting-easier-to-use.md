@@ -1,8 +1,8 @@
 ---
 title: The quiet features that make camp-lighting easier to use
 metaDescription: A practical CampDeck guide to choosing camp-lighting with fewer regrets.
-publishedAt: '2026-05-03'
-pubDate: '2026-05-03'
+publishedAt: '2026-05-02'
+pubDate: '2026-05-02'
 updatedAt: '2026-05-09'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing camp-lighting options for campdeck.app.
@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [Storage and maintenance tips for camp-lighting (2)](/articles/storage-and-maintenance-tips-for-camp-lighting-2/)
 - [A practical camp-lighting gift guide (3)](/articles/a-practical-camp-lighting-gift-guide-3/)
+- [Storage and maintenance tips for camp-lighting (2)](/articles/storage-and-maintenance-tips-for-camp-lighting-2/)

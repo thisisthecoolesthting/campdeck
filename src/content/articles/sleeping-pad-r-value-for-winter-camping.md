@@ -1,11 +1,15 @@
 ---
-title: "Sleeping pad r-value for winter camping"
-description: "sleeping pad r-value for winter camping"
-pubDate: 2026-05-09
-author: "jordan-vale"
-tags: ["best 2 person backpacking tent under 300", "best sleeping bag for cold weather camping", "ultralight backpack under 3 pounds"]
-status: "published"
-heroImage: ""
+title: Sleeping pad r-value for winter camping
+description: sleeping pad r-value for winter camping
+pubDate: '2026-05-05'
+author: jordan-vale
+tags:
+- best 2 person backpacking tent under 300
+- best sleeping bag for cold weather camping
+- ultralight backpack under 3 pounds
+status: published
+heroImage: ''
+publishedAt: '2026-05-05'
 ---
 
 Winter camping is a different beast. The quiet solitude of a snow-covered landscape can be magical, but that magic quickly fades if you spend the night shivering on frozen ground. A good sleeping bag is only half the equation; without proper insulation underneath you, even the warmest bag is fighting a losing battle against heat loss to the cold earth.
@@ -49,3 +53,10 @@ Not all sleeping pads are created equal, especially when it comes to winter perf
 2.  **Closed-Cell Foam Pads (CCF Pads):** These are the simple, bombproof workhorses of the camping world. Made from dense foam with trapped air cells, they offer consistent insulation that won't fail due to punctures.
     *   **Pros:** Inexpensive, incredibly durable, impervious to punctures, lightweight, always provide some insulation even if wet or punctured (if part of a layered system).
     *   **Cons:** Low R-value on their own (typically 1.5-2.5), bulky (
+
+## Related reading
+
+- [A practical camp-cookware gift guide (2)](/articles/a-practical-camp-cookware-gift-guide-2/)
+- [A practical camp-lighting gift guide (3)](/articles/a-practical-camp-lighting-gift-guide-3/)
+- [A practical trekking-poles gift guide](/articles/a-practical-trekking-poles-gift-guide/)
+- [backpacks setup checklist for beginners (2)](/articles/backpacks-setup-checklist-for-beginners-2/)

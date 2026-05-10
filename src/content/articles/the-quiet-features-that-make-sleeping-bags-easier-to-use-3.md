@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [sleeping-bags buying mistakes to avoid](/articles/sleeping-bags-buying-mistakes-to-avoid/)
 - [Budget versus premium sleeping-bags: what actually matters (2)](/articles/budget-versus-premium-sleeping-bags-what-actually-matters-2/)
+- [sleeping-bags buying mistakes to avoid](/articles/sleeping-bags-buying-mistakes-to-avoid/)

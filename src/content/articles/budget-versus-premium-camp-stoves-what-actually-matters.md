@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [The quiet features that make camp-stoves easier to use (2)](/articles/the-quiet-features-that-make-camp-stoves-easier-to-use-2/)
 - [Storage and maintenance tips for camp-stoves (3)](/articles/storage-and-maintenance-tips-for-camp-stoves-3/)
+- [The quiet features that make camp-stoves easier to use (2)](/articles/the-quiet-features-that-make-camp-stoves-easier-to-use-2/)

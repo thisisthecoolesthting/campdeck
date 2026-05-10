@@ -1,8 +1,8 @@
 ---
 title: The quiet features that make camp-stoves easier to use (2)
 metaDescription: A practical CampDeck guide to choosing camp-stoves with fewer regrets.
-publishedAt: '2026-05-03'
-pubDate: '2026-05-03'
+publishedAt: '2026-05-02'
+pubDate: '2026-05-02'
 updatedAt: '2026-05-05'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing camp-stoves options for campdeck.app.

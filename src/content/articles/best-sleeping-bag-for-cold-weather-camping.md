@@ -1,11 +1,15 @@
 ---
-title: "Best sleeping bag for cold weather camping in 2026"
-description: "best sleeping bag for cold weather camping"
-pubDate: 2026-05-10
-author: "jordan-vale"
-tags: ["best 2 person backpacking tent under 300", "best sleeping bag for cold weather camping", "ultralight backpack under 3 pounds"]
-status: "published"
-heroImage: ""
+title: Best sleeping bag for cold weather camping in 2026
+description: best sleeping bag for cold weather camping
+pubDate: '2026-05-08'
+author: jordan-vale
+tags:
+- best 2 person backpacking tent under 300
+- best sleeping bag for cold weather camping
+- ultralight backpack under 3 pounds
+status: published
+heroImage: ''
+publishedAt: '2026-05-08'
 ---
 
 The biting chill of a mountain night can turn an otherwise perfect trip into a miserable ordeal. I’ve seen it happen. Your sleeping bag isn't just a piece of gear; it's your personal sanctuary against the elements, the difference between a restful night and shivering until dawn. For cold weather camping, selecting the right bag isn't just about comfort—it's about safety and enjoying the experience.
@@ -50,3 +54,10 @@ Other features to consider:
 *   **Draft Collar/Tube:** An insulated tube or collar around the neck and along the zipper prevents warm air from escaping and cold air from entering. Crucial for cold weather.
 *   **Hood:** An adjustable, well-fitting hood is essential for trapping heat around your head.
 *   **Foot
+
+## Related reading
+
+- [A practical camp-cookware gift guide (2)](/articles/a-practical-camp-cookware-gift-guide-2/)
+- [A practical camp-lighting gift guide (3)](/articles/a-practical-camp-lighting-gift-guide-3/)
+- [A practical trekking-poles gift guide](/articles/a-practical-trekking-poles-gift-guide/)
+- [backpacks setup checklist for beginners (2)](/articles/backpacks-setup-checklist-for-beginners-2/)

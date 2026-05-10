@@ -1,8 +1,8 @@
 ---
 title: When to replace your sleeping-pads gear (2)
 metaDescription: A practical CampDeck guide to choosing sleeping-pads with fewer regrets.
-publishedAt: '2026-05-01'
-pubDate: '2026-05-01'
+publishedAt: '2026-04-30'
+pubDate: '2026-04-30'
 updatedAt: '2026-05-05'
 heroImage: ''
 excerpt: A practical, buyer-focused guide to comparing sleeping-pads options for campdeck.app.
@@ -42,5 +42,5 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 ## Related reading
 
-- [sleeping-pads setup checklist for beginners](/articles/sleeping-pads-setup-checklist-for-beginners/)
 - [sleeping-pads essentials for weekend projects (3)](/articles/sleeping-pads-essentials-for-weekend-projects-3/)
+- [sleeping-pads setup checklist for beginners](/articles/sleeping-pads-setup-checklist-for-beginners/)
