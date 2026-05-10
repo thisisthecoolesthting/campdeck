@@ -1,0 +1,79 @@
+{
+  "brand": {
+    "shortName": "CampDeck",
+    "fullName": "CampDeck",
+    "taglineShort": "Gear that earns its weight.",
+    "identity": {
+      "palette": {
+        "primary": "#2D4A22",
+        "accent": "#D4820A",
+        "cream": "#F7F4EE",
+        "ink": "#1C2B17"
+      },
+      "fonts": {
+        "display": "Space Grotesk",
+        "body": "Inter",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "brand/campdeck.svg",
+        "svgPublicPath": "/brand/campdeck.svg",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "CAMPING & OUTDOOR GEAR",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+    }
+  },
+  "persona": {
+    "ymyl": false,
+    "tone": "practical_outdoorsy"
+  },
+  "editorial": {
+    "authorSlug": "jordan-vale",
+    "author_slug": "jordan-vale",
+    "methodology": [
+      "Every item is taken on a minimum of 2 real camping trips before review \u2014 no backyard or hotel-room tests.",
+      "Tents are set up in wind and rain; sleeping bags are rated against actual temperature performance, not manufacturer claims.",
+      "Pack weight is measured on our own scale; volume claims are verified by packing the listed capacity in real gear.",
+      "We note pack-out durability: gear that fails after one season is marked accordingly and removed from recommendations.",
+      "Budget picks are taken as seriously as premium picks \u2014 we name the cheapest option that doesn't compromise safety or comfort.",
+      "Affiliate links go to lowest price across REI, Amazon, and manufacturer direct; we note price-match policies."
+    ],
+    "ymyl": false
+  },
+  "newsletter": {
+    "title": "The CampDeck weekly",
+    "subtitle": "Practical picks and straight answers from CampDeck, once a week. No spam.",
+    "kicker": "Stay in the loop"
+  },
+  "supportEmail": "hello@campdeck.app",
+  "defaultAuthorSlug": "jordan-campdeck",
+  "defaultMetaDescription": "Reviews of tents, sleeping bags, backpacks, camp stoves, and outdoor gear tested on real trips. We carry what we recommend, sleep in what we review, and cook on what we rate. No glamping gear. No Inst",
+  "homepage": {
+    "eyebrow": "Camping gear, field tested",
+    "h1": "Gear that earns its weight.",
+    "subhead": "Reviews of tents, sleeping bags, backpacks, camp stoves, and outdoor gear tested on real trips. We carry what we recommend, sleep in what we review, and cook on what we rate. No glamping gear. No Instagram setups.",
+    "ctaPrimaryLabel": "See top picks",
+    "ctaPrimaryHref": "/pillars",
+    "ctaSecondaryLabel": "First camping kit",
+    "ctaSecondaryHref": "/pillars/first-camping-kit",
+    "trustLine": "Gear tested on real trips, in real weather. Bought at retail. No brand partnerships.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=1600&q=85"
+  },
+  "about": {
+    "headline": "Why CampDeck exists",
+    "body": "Outdoor gear reviews are dominated by people who test equipment in ideal conditions and write up vague impressions. We camp in rain, sleep in cold, and cook on wind-exposed ridgelines. If gear fails in those conditions we say so. If it's worth every dollar we say that too."
+  },
+  "analytics": {
+    "ga_measurement_id": "",
+    "ga_property_id": "",
+    "search_console_property": "https://campdeck.app/"
+  }
+}
