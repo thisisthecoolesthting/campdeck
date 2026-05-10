@@ -1,28 +1,81 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import HowWeTest from '@/components/HowWeTest.astro';
 import home from '@/data/spawn-home.json';
 const b = home.brand;
-const tone = (home as { persona?: { tone?: string; ymyl?: boolean } }).persona?.tone ?? 'wellness';
-const methodology: string[] =
-  (home as { editorial?: { methodology?: string[] } }).editorial?.methodology ?? [];
+const methodology = [
+  {
+    title: 'We take gear on real trips',
+    bullet: home.editorial.methodology[0],
+    body:
+      'Outdoor gear behaves differently after miles, condensation, dirt, cold mornings, and tired setup decisions. We do not treat backyard pitch tests as a substitute for using the product when the weather and route are not staged.',
+  },
+  {
+    title: 'We compare claims to conditions',
+    bullet: home.editorial.methodology[1],
+    body:
+      'Manufacturer temperature, weather, and comfort claims are starting points, not conclusions. We note when tents sag, bags sleep cold, zippers snag, stakes bend, or stove performance drops in wind.',
+  },
+  {
+    title: 'We verify weight and capacity',
+    bullet: home.editorial.methodology[2],
+    body:
+      'A few ounces and a few liters matter when the pack is on your back. We weigh gear ourselves and test whether the advertised volume fits a realistic kit instead of a marketing-friendly loadout.',
+  },
+  {
+    title: 'We watch for one-season failures',
+    bullet: home.editorial.methodology[3],
+    body:
+      'Durability is part of value, especially for gear that may sit packed between trips and then be expected to work immediately. If fabric, poles, buckles, coatings, or seams fail early, the recommendation changes.',
+  },
+  {
+    title: 'We take budget gear seriously',
+    bullet: home.editorial.methodology[4],
+    body:
+      'Not every camper needs the lightest premium option, but cheap gear still has to protect sleep, warmth, water, and food. We identify the lowest-price pick that remains comfortable and dependable enough to recommend.',
+  },
+  {
+    title: 'We route readers to the best current price',
+    bullet: home.editorial.methodology[5],
+    body:
+      'Affiliate revenue helps fund field testing, but commission rate does not decide the retailer link. We compare legitimate sources and call out price-match options when they make the better buy clearer.',
+  },
+];
 ---
 
 <BaseLayout
   title={`Methodology — ${b.fullName}`}
-  description={`How ${b.fullName} researches, tests, and discloses. Editorial tone: ${String(tone)}.`}
+  description={`How ${b.fullName} researches, tests, and discloses.`}
   ogType="article"
 >
-  <main class="max-w-3xl mx-auto px-4 py-10">
-    <div class="prose">
-      <h1>How {b.fullName} works</h1>
-      <p>
-        This page outlines how we test products, cite sources, and keep shopping fields current. When
-        we use affiliate links, we may earn a commission; that does not change the price you pay. See
-        the <a href="/disclosure">affiliate disclosure</a> and contact us if you spot something that
-        looks out of date.
+  <main class="max-w-3xl mx-auto px-6 py-12 md:py-16">
+    <header class="mb-10">
+      <p class="text-xs uppercase tracking-[0.2em] font-semibold text-accent-600 mb-3">
+        Methodology
       </p>
+      <h1 class="font-display text-4xl md:text-5xl text-ink-900 !mt-0 mb-4">
+        How we test
+      </h1>
+      <p class="text-lg text-ink-700 leading-relaxed">
+        CampDeck reviews are written after gear has been carried, pitched, slept in, cooked on, and
+        packed out. We care about what works when the trip stops being ideal.
+      </p>
+    </header>
+
+    <div class="space-y-8">
+      {methodology.map((item, index) => (
+        <section>
+          <p class="text-sm font-semibold text-accent-600 mb-2">Step {index + 1}</p>
+          <h2 class="font-display text-2xl text-ink-900 mt-0 mb-3">{item.title}</h2>
+          <p class="font-semibold text-ink-800 leading-relaxed">{item.bullet}</p>
+          <p class="text-ink-700 leading-relaxed">{item.body}</p>
+        </section>
+      ))}
     </div>
-    <HowWeTest methodology={methodology} title="Our review process" />
+
+    <p class="mt-10 border-t border-ink-100 pt-6 text-ink-700 leading-relaxed">
+      CampDeck does not accept sponsorships, paid placements, or manufacturer samples. If you spot
+      a mistake, changed price, or field failure we should investigate, email
+      <a href="mailto:hello@campdeck.app"> hello@campdeck.app</a> and we will review it.
+    </p>
   </main>
 </BaseLayout>
