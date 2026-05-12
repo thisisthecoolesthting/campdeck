@@ -21,6 +21,10 @@ The first consideration is volume. Ultralight weekend trips typically require pa
 
 Think about the gear you bring, including shelter system, clothing layers for variable weather, and cook setups. Also consider whether you’ll need to carry additional items like climbing gear or cameras.
 
+
+
+> **See also:** [How to Pack Smart for a Two-Day Backpacking Trip](https://campdeck.app/articles/how-to-pack-smart-for-a-two-day-backpacking-trip/)
+
 ## Step 2: Prioritize Weight and Materials
 
 Ultralight packs focus heavily on packing weight. Look for:

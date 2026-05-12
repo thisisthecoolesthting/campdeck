@@ -89,6 +89,10 @@ Efficient breakdown maintains gear longevity and decreases pack weight woes on s
 
 ---
 
+
+
+> **See also:** [Tips for Creating a Comfortable Car Camping Kitchen Setup](https://campdeck.app/articles/tips-for-creating-a-comfortable-car-camping-kitchen-setup/)
+
 ## Practical Gear Recommendations for Vehicle Camp Kitchens
 
 When selecting equipment, prioritize ease of setup and how weight impacts your overall pack load if you plan on short hikes in from your vehicle camp. Avoid overly complex gear that requires hours to set up or maintain, especially if weather conditions might worsen quickly.

@@ -16,6 +16,10 @@ Backpackers and car campers often face the challenge of sourcing clean drinking 
 
 A portable water filter is a compact device designed to remove pathogens, sediments, and impurities from natural water sources, making it safe for drinking. These filters are essential when natural water supplies are your primary hydration source. They use different filtration technologies—like hollow fiber membranes, activated carbon, or ceramic—to trap bacteria, protozoa, and sometimes viruses depending on the filter type.
 
+
+
+> **See also:** [Top Portable Stove Models for Efficient Outdoor Cooking](https://campdeck.app/articles/top-portable-stove-models-for-efficient-outdoor-cooking/)
+
 ## How Portable Water Filters Work
 
 Most portable filters rely on mechanical filtration where water is forced through fine pores small enough to block harmful microorganisms. Some advanced filters combine mechanical filtration and chemical adsorption to improve taste and remove chemicals. The major types include:

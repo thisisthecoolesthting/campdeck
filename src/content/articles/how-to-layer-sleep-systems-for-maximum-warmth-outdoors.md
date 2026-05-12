@@ -16,6 +16,10 @@ When temperatures drop at night, staying warm while sleeping outdoors becomes a 
 
 Layering a sleep system means combining multiple sleep gear components, such as sleeping bags, blankets, liners, and pads, to create a customized insulation setup. Much like layering clothing, a layered sleep system traps heat more efficiently and offers flexibility to adjust your warmth for varying conditions, including altitude, humidity, wind, and temperature changes.
 
+
+
+> **See also:** [Tips for Staying Warm Using Sleep System Layers Outdoors](https://campdeck.app/articles/tips-for-staying-warm-using-sleep-system-layers-outdoors/)
+
 ## How Sleep Layers Retain Heat
 
 Heat retention depends on trapping warm air close to your body. Each layer you add creates additional air pockets that reduce heat loss. However, insulation’s effectiveness is influenced by moisture, compression, wind, and temperature. A well-layered system balances lightweight gear with thermal efficiency, minimizes compressed insulation, and protects against wind or dampness.

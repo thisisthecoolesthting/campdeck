@@ -20,6 +20,10 @@ Your backpack is your base for everything you bring. For a two-day trip, a pack 
 - **Comfort**: Adjustable straps and padded hip belts distribute weight, critical for longer carry.
 - **Weather Resistance**: Look for a pack with a water-resistant fabric or include a rain cover. A dry backpack significantly cuts setup time during unexpected rain stops.
 
+
+
+> **See also:** [Packing Checklist for a Weekend Backpacking Adventure](https://campdeck.app/articles/packing-checklist-for-a-weekend-backpacking-adventure/)
+
 ## Step 2: Pack the Essentials with Weight and Setup Time in Mind
 
 Focus on multi-use gear and minimize extras to keep weight manageable. Keep in mind how readily you can set up or use each item if rain or wind picks up.

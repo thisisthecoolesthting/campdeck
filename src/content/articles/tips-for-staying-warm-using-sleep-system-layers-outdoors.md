@@ -18,6 +18,10 @@ A sleep system consists of all the components you use together to keep warm and 
 
 Layering isn’t just about piling on clothes or gear. It’s about understanding how different materials and insulation types work together to trap heat, wick away sweat, and prevent heat loss through conduction, convection, or radiation.
 
+
+
+> **See also:** [How to Layer Sleep Systems for Maximum Warmth Outdoors](https://campdeck.app/articles/how-to-layer-sleep-systems-for-maximum-warmth-outdoors/)
+
 ## How Sleep System Layers Work
 
 ### Core Principles of Layering

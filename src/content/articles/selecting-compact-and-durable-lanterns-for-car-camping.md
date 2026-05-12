@@ -24,6 +24,10 @@ Compact and durable lanterns are portable light sources designed for use in outd
 
 Car campers often use these lanterns to light eatery zones, tent vestibules, or paths across a campsite. The lantern’s design lets you hang it inside a tent or stand it on a picnic table, making versatility another key consideration.
 
+
+
+> **See also:** [How to Create a Comfortable Sleep System for Car Camping](https://campdeck.app/articles/how-to-create-a-comfortable-sleep-system-for-car-camping/)
+
 ## How Compact and Durable Lanterns Work
 
 These lanterns typically rely on LED bulbs powered by batteries or rechargeable cells. LED technology offers bright, efficient, and cool-running light output, ideal for outdoor use.

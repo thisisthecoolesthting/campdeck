@@ -24,6 +24,10 @@ Key considerations include:
 - **Setup Time and Weather Robustness:** Foam pads can be thrown down quickly in any weather, including rain or snow. Inflatable pads require inflation, which can be awkward with gloves or in poor weather.
 - **Durability and Wind Resistance:** Foam pads withstand abrasion and punctures better; inflatable pads may deflate mid-night in cold temperatures without proper design.
 
+
+
+> **See also:** [Choosing the Right Sleeping Pad Thickness for Car Camping](https://campdeck.app/articles/choosing-the-right-sleeping-pad-thickness-for-car-camping/)
+
 ## How Insulated Sleeping Pads Work
 
 Most insulated sleeping pads trap air and/or use synthetic insulation to create a thermal barrier. Closed-cell foam pads are solid and filled with tiny air pockets, which prevents heat loss to the ground. Inflatable pads rely on air chambers; some include insulation layers such as synthetic fibers or reflective surfaces inside to limit heat loss through convection or radiation.

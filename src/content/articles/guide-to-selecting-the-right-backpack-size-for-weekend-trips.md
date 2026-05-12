@@ -16,6 +16,10 @@ Choosing the right backpack size for weekend trips can feel surprisingly complic
 
 ---
 
+
+
+> **See also:** [How to Choose the Best Sleeping Quilt for Summer Camping](https://campdeck.app/articles/how-to-choose-the-best-sleeping-quilt-for-summer-camping/)
+
 ## What Does Backpack Size Really Mean?
 
 Backpack size is usually measured in liters, representing the internal volume of the pack. This volume determines how much gear you can bring, from clothing and shelter to food and water. For weekend trips, the right size is a sweet spot between capacity and pack weight.

@@ -18,6 +18,10 @@ Natural landmark navigation involves identifying and using distinct physical fea
 
 Natural navigation is especially valuable on trails where signs or markers are sparse, in wilderness areas that challenge GPS reception, or when technology fails. It relies on visual cues, spatial memory, and sometimes basic celestial navigation skills.
 
+
+
+> **See also:** [Tips for Navigating Remote Trails with Limited Cell Service](https://campdeck.app/articles/tips-for-navigating-remote-trails-with-limited-cell-service/)
+
 ## How to Navigate Using Natural Landmarks: Step-by-Step
 
 ### 1. Identify Prominent, Fixed Landmarks Before Departure

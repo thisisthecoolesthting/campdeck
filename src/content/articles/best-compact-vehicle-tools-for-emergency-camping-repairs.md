@@ -14,6 +14,10 @@ subtopic: navigation
 
 When you’re out camping—especially car camping or adventuring in remote areas—your vehicle is not just a means of transportation but often your lifeline. Whether you’re stuck with a flat tire, a loose battery connection, or a minor mechanical hiccup, having the right compact vehicle tools can mean the difference between a quick fix and a frustrating delay. The challenge is balancing the tools you carry so you’re prepared without unnecessarily adding weight or bulk to your pack or vehicle storage.
 
+
+
+> **See also:** [How to Pack Emergency Navigation Tools in Your Backpack](https://campdeck.app/articles/how-to-pack-emergency-navigation-tools-in-your-backpack/)
+
 ## What Are Compact Vehicle Tools for Emergency Repairs?
 
 Compact vehicle tools are lightweight, space-saving devices designed to handle common vehicle repair tasks experienced on the road or in the wilderness. Unlike a full mechanic’s toolkit, these tools are optimized for portability and ease of use, focusing on frequent and critical fixes. This typically includes tire repairs, battery jumpstarts, basic wrenching, and multipurpose screwdrivers.

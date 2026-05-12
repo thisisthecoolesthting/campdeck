@@ -23,6 +23,10 @@ Properly optimized setups aim to:
 - Ensure gear operates reliably in varied environments – thin air at altitude, gusty wind, or precipitation
 - Balance weight distribution to preserve fuel economy and vehicle handling
 
+
+
+> **See also:** [Packing Checklist for a Weekend Backpacking Adventure](https://campdeck.app/articles/packing-checklist-for-a-weekend-backpacking-adventure/)
+
 ## How It Works: Key Considerations for Optimizing Setup
 
 ### 1. Manage Pack Weight Sensibly

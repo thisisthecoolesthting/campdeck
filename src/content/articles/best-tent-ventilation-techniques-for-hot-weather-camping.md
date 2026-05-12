@@ -18,6 +18,10 @@ Tent ventilation is the process of promoting airflow through your shelter to red
 
 Good ventilation is especially critical in hot weather, but it also improves comfort during three-season camping by reducing clamminess and humidity. In contrast, many four-season tents sacrifice ventilation for added insulation and wind resistance, often having minimal mesh panels or vents to retain heat in cold environments.
 
+
+
+> **See also:** [Best Insulated Sleeping Pads for Cold Weather Camping](https://campdeck.app/articles/best-insulated-sleeping-pads-for-cold-weather-camping/)
+
 ## How Tent Ventilation Works
 
 Most tents achieve ventilation through a combination of mesh panels, adjustable vents, and tent fabric design. When these elements are strategically positioned, they create cross-breezes:

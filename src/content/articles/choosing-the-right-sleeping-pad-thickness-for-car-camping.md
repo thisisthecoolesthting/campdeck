@@ -18,6 +18,10 @@ Sleeping pad thickness refers to how tall or thick the pad is when inflated or u
 
 For car campers, thickness often intersects with ease of setup, pack weight, insulation (R-value), and stability. Unlike ultralight backpackers, car campers often have more flexibility to choose thicker and cushier pads but still need to consider if the extra bulk and weight are worth the comfort.
 
+
+
+> **See also:** [How to Choose the Best Sleeping Quilt for Summer Camping](https://campdeck.app/articles/how-to-choose-the-best-sleeping-quilt-for-summer-camping/)
+
 ## How Thickness Affects Comfort and Performance
 
 ### Cushioning and Support

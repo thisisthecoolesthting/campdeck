@@ -16,6 +16,10 @@ If you're out on a multi-day backpacking trip and a sudden rainstorm soaks your 
 
 Efficient gear drying involves minimizing the time your equipment remains wet by employing techniques and tools that leverage natural elements (sun, wind) and smart packing. It focuses on quickly removing moisture from tents, sleeping bags, clothes, and even electronics without investing heavy, bulky gear or excessively long drying sessions that cut into your hiking time.
 
+
+
+> **See also:** [Tips for Minimizing Backpack Weight Without Sacrificing Essentials](https://campdeck.app/articles/tips-for-minimizing-backpack-weight-without-sacrificing-essentials/)
+
 ## How It Works: Basics of Drying Gear in the Outdoors
 
 Drying your gear depends primarily on three factors:

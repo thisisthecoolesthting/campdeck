@@ -18,6 +18,10 @@ Trekking poles are adjustable sticks used to provide stability, reduce joint imp
 
 Finding poles that are both can extend your endurance and safety downhill, through rainstorms, or at high altitudes, where materials can behave differently due to colder temperatures and thinner air.
 
+
+
+> **See also:** [How to Choose the Right Pack Rain Cover for Wet Weather](https://campdeck.app/articles/how-to-choose-the-right-pack-rain-cover-for-wet-weather/)
+
 ## How to Select Lightweight but Sturdy Trekking Poles: Step-by-Step
 
 ### 1. Consider Materials: Carbon Fiber vs Aluminum

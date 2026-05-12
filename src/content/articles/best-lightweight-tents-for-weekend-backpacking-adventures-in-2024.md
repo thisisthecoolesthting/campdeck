@@ -23,6 +23,10 @@ A truly lightweight backpacking tent doesn't just shave weight—it keeps you pr
 - **Season Rating:** Most three-season tents suffice for spring, summer, and fall; four-season tents add robustness for snow and harsher winds but increase weight.
 - **Altitude & Wind Behavior:** Thin air or strong winds at elevation demand well-anchored, aerodynamic designs to stay stable and comfortable.
 
+
+
+> **See also:** [Best Compact Cookware for Solo Weekend Backpackers](https://campdeck.app/articles/best-compact-cookware-for-solo-weekend-backpackers/)
+
 ## Top 5 Lightweight Tents for Weekend Backpacking in 2024
 
 Below is a ranked list presenting tents that strike the right balance for typical three-season, moderate-altitude weekend trips lasting 2-3 days.

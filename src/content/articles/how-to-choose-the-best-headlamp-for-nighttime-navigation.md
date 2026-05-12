@@ -21,6 +21,10 @@ For both car camping and backpacking, the weight of your headlamp and its power 
 
 Remember the balance: for car campers, heavier models with longer battery life might be fine since pack weight is less critical. Backpackers who also navigate at night want the lightest option with enough brightness and battery life to last their trek.
 
+
+
+> **See also:** [How to Choose the Right Pack Rain Cover for Wet Weather](https://campdeck.app/articles/how-to-choose-the-right-pack-rain-cover-for-wet-weather/)
+
 ## Step 2: Evaluate Brightness and Beam Type
 
 Brightness, measured in lumens, determines how well you can see trail markers, terrain details, or navigate dirt roads:

@@ -25,6 +25,10 @@ Good organization also allows easy rationing and monitoring your food supply ove
 
 ---
 
+
+
+> **See also:** [Efficient Ways to Store Food and Keep It Safe While Camping](https://campdeck.app/articles/efficient-ways-to-store-food-and-keep-it-safe-while-camping/)
+
 ## 1. Use Appropriate Containers and Packaging
 
 ### Dry Bags / Stuff Sacks vs Resealable Plastic Bags

@@ -24,6 +24,10 @@ Navigating remote trails without full cellular service means using a combination
 - Minimizing pack weight while maximizing functional gear
 - Preparing for emergency communication if needed
 
+
+
+> **See also:** [How to Pack Emergency Navigation Tools in Your Backpack](https://campdeck.app/articles/how-to-pack-emergency-navigation-tools-in-your-backpack/)
+
 ## How It Works: Tools and Techniques for Low-Connectivity Trail Navigation
 
 1. **Offline Maps and GPS Devices**  

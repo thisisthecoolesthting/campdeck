@@ -16,6 +16,10 @@ If you’re gearing up for a weekend backpacking trip, your cookware choice can 
 
 ---
 
+
+
+> **See also:** [Packing Checklist for a Weekend Backpacking Adventure](https://campdeck.app/articles/packing-checklist-for-a-weekend-backpacking-adventure/)
+
 ## What Is Lightweight Backpacking Cookware?
 
 Lightweight backpacking cookware sets include pots, pans, and sometimes cups and utensils designed specifically for hiking and camping. Their core goal is to reduce pack weight without sacrificing cooking efficiency or sturdiness. Unlike heavier car-camping gear or bulky home kitchen cookware, these sets use thin metals and smart designs to minimize carry weight and bulk.

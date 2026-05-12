@@ -16,6 +16,10 @@ Multi-fuel stoves are a key piece of gear when you want reliable, versatile cook
 
 A multi-fuel stove is a portable cooking system designed to burn different types of liquid or gas fuels. Unlike single-fuel stoves (e.g., canister or alcohol stoves), these stoves can typically run on white gas, kerosene, unleaded gasoline, or even aviation fuel in some models. This versatility is highly valuable for long trips where fuel availability might vary or for international travel where fuel options differ.
 
+
+
+> **See also:** [Top Portable Stove Models for Efficient Outdoor Cooking](https://campdeck.app/articles/top-portable-stove-models-for-efficient-outdoor-cooking/)
+
 ## How Multi-Fuel Stoves Work
 
 Most multi-fuel stoves operate by pressurizing a liquid fuel reservoir, vaporizing the fuel through a pre-heated generator or burner, and delivering a controlled flame under the pot platform. Some designs require priming (pre-heating) to vaporize the fuel before effective combustion starts. The system typically includes pumps and fuel lines that allow liquid fuel to be pressurized and forced through the burner assembly.

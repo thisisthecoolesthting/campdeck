@@ -16,6 +16,10 @@ When you're out car camping or heading into the backcountry for a weekend backpa
 
 A portable stove is a lightweight, compact cooking device designed for outdoor use. It typically runs on gas canisters, liquid fuel, or solid fuel tablets, providing a controlled flame for boiling water, simmering meals, or frying. Portable stoves come in different designs—canister stoves, liquid fuel stoves, wood-burning stoves, and solid fuel stoves—each with advantages and limits depending on the type of trip and environmental conditions.
 
+
+
+> **See also:** [Best Multi-Fuel Stoves for Versatile Outdoor Cooking Needs](https://campdeck.app/articles/best-multi-fuel-stoves-for-versatile-outdoor-cooking-needs/)
+
 ## How Portable Stoves Work
 
 Most portable stoves burn stored fuel to create a flame under your pot or pan. Canister stoves use pressurized gas (isobutane-propane mixes), liquid fuel stoves burn white gas or multi-fuel blends, wood stoves combust small twigs or biomass, and solid fuel stoves use compressed fuel tablets.

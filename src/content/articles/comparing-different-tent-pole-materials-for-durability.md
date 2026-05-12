@@ -18,6 +18,10 @@ Tent poles provide the structural backbone of your shelter, dictating not just i
 
 Using a durable pole can mean the difference between a quick, sturdy setup in a rainstorm and an exhausting, make-do camp where poles snap or collapse, leaving you vulnerable to the elements.
 
+
+
+> **See also:** [Setting Up a Car Tent for Quick and Easy Shelter](https://campdeck.app/articles/setting-up-a-car-tent-for-quick-and-easy-shelter/)
+
 ## How Different Tent Pole Materials Work
 
 ### Fiberglass Poles

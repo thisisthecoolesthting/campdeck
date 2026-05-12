@@ -22,6 +22,10 @@ Backpacking stoves come in various types: canister stoves, liquid fuel stoves, a
 
 Knowing your stove's fuel type helps you anticipate setup time under adverse weather, fuel availability on your route, and how easily you can modulate heat for searing or simmering.
 
+
+
+> **See also:** [Best Multi-Fuel Stoves for Versatile Outdoor Cooking Needs](https://campdeck.app/articles/best-multi-fuel-stoves-for-versatile-outdoor-cooking-needs/)
+
 ## Tips for Cooking Gourmet Meals on a Backpacking Stove
 
 ### 1. Choose Lightweight, Multipurpose Cookware

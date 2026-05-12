@@ -16,6 +16,10 @@ Setting up a roof rack for camping gear transport can be tricky if you've never 
 
 A roof rack is a system of bars and mounts installed on the roof of your vehicle for carrying extra cargo externally. They are especially useful for campers who need to haul bulky gear such as tents, sleeping pads, coolers, or even bikes and kayaks that won’t fit inside the vehicle. Roof racks free up interior space for passengers while expanding your total load capacity.
 
+
+
+> **See also:** [Tips for Creating a Comfortable Car Camping Kitchen Setup](https://campdeck.app/articles/tips-for-creating-a-comfortable-car-camping-kitchen-setup/)
+
 ## How Roof Racks Work
 
 Roof racks typically consist of:

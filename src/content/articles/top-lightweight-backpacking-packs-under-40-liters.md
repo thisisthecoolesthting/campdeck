@@ -24,6 +24,10 @@ A pack rated under 40 liters typically targets short trips—usually 1-3 days—
 - **Altitude and Wind Behavior:** Look for aerodynamic profiles and durable materials. A lightweight pack with loose fabric or insufficient framing will flap or sag in strong wind or high altitude air flow.
 - **Comfort and Fit:** Consider adjustable suspension and ergonomics because uneven weight distribution risks lower back strain when carrying minimal load.
 
+
+
+> **See also:** [Best Backpacking Rain Gear to Stay Dry on Weekend Trips](https://campdeck.app/articles/best-backpacking-rain-gear-to-stay-dry-on-weekend-trips/)
+
 ## Top Lightweight Backpacking Packs Under 40 Liters
 
 Here is a ranked list of standout models chosen for their combo of weight, utility, and weather resilience.

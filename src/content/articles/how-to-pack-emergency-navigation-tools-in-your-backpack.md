@@ -16,6 +16,10 @@ If you find yourself off the beaten path without reliable GPS or cell service, k
 
 Emergency navigation tools are only useful if you can access and use them quickly and effectively. Weight matters, especially for backpackers who need to balance gear redundancy with carry comfort and speed. Setup time under conditions like rain or wind can determine whether you successfully orient yourself before the weather worsens. Additionally, durability in cold, wet, or high-altitude environments affects whether these tools remain reliable. 
 
+
+
+> **See also:** [Tips for Navigating Remote Trails with Limited Cell Service](https://campdeck.app/articles/tips-for-navigating-remote-trails-with-limited-cell-service/)
+
 ## Step 1: Choose Appropriate Navigation Tools for Your Trip
 
 Your choice of tools should factor in the trip duration, terrain, and weather conditions. Here are the common types of navigation aids:

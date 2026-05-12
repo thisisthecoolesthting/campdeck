@@ -25,6 +25,10 @@ Essential first aid items are a compact kit of medical supplies to manage common
 
 For outdoor use, the kit needs to be durable, lightweight, moisture-resistant, and simple to operate even with cold or wet hands.
 
+
+
+> **See also:** [Packing Checklist for a Weekend Backpacking Adventure](https://campdeck.app/articles/packing-checklist-for-a-weekend-backpacking-adventure/)
+
 ## How to Choose First Aid Items for Car Camping and Backpacking
 
 ### 1. Prioritize Lightweight and Compact Supplies

@@ -16,6 +16,10 @@ Camping stoves are essential gear for car-campers and weekend backpackers who ne
 
 Camping stoves operate in challenging environments: dirt, moisture, cold, and wind all affect performance. A dirty or poorly maintained stove will consume more fuel, take longer to set up, work less efficiently at altitude, and risk breakdowns in rain or freezing conditions. Maintaining your stove reduces packing weight over time (by avoiding bulky part replacements), improves setup time, and ensures reliable operation no matter where or when you camp.
 
+
+
+> **See also:** [How to Create a Comfortable Sleep System for Car Camping](https://campdeck.app/articles/how-to-create-a-comfortable-sleep-system-for-car-camping/)
+
 ## Types of Camping Stoves and Their Maintenance Needs
 
 Maintenance varies by stove type:

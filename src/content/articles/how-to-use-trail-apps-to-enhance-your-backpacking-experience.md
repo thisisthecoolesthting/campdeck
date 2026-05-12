@@ -18,6 +18,10 @@ Below, we break down how to use trail apps effectively in the backcountry, focus
 
 ---
 
+
+
+> **See also:** [How to Navigate Using Natural Landmarks While Backpacking](https://campdeck.app/articles/how-to-navigate-using-natural-landmarks-while-backpacking/)
+
 ## 1. Choose the Right Trail App for Your Needs
 
 Trail apps vary widely in features, offline capability, and usability at altitude or in areas with limited connectivity. Your choice should depend on your specific trip style and goals.

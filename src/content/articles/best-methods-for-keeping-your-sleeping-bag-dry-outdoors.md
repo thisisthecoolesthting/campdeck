@@ -16,6 +16,10 @@ Keeping a sleeping bag dry outdoors is a common challenge for car-campers and we
 
 Sleeping bags rely on trapped air in their insulation—down or synthetic—to keep you warm. Moisture compresses this insulation, dramatically reducing warmth. Damp insulation takes longer to dry, adds weight, and can lead to hypothermia risks in cold environments. Plus, a wet sleeping bag can develop mold or odors if not dried properly. For car-campers who can afford a bit more weight and time, solutions differ from ultralight backpackers who prioritize compactness and speed.
 
+
+
+> **See also:** [Tips for Minimizing Backpack Weight Without Sacrificing Essentials](https://campdeck.app/articles/tips-for-minimizing-backpack-weight-without-sacrificing-essentials/)
+
 ## Best Methods to Keep Your Sleeping Bag Dry Outdoors
 
 ### 1. Use a Waterproof Stuff Sack or Dry Bag

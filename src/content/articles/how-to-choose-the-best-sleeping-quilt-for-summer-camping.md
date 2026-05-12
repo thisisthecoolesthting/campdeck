@@ -18,6 +18,10 @@ A sleeping quilt is essentially an insulated blanket designed for camping, often
 
 Quilts excel in warmer conditions and on well-insulated pads because they eliminate unused insulation beneath you that crunches down under your weight. They also usually pack smaller than a similarly rated sleeping bag. However, quilts may expose you to drafts if not properly sized or used with the right pad.
 
+
+
+> **See also:** [How to Choose the Perfect Sleeping Bag for Car Camping Trips](https://campdeck.app/articles/how-to-choose-the-perfect-sleeping-bag-for-car-camping-trips/)
+
 ## How Sleeping Quilts Work in Summer Camping Conditions
 
 Summer camping is mostly about managing heat without sacrificing comfort when temperatures dip at night. A sleeping quilt for summer needs to:

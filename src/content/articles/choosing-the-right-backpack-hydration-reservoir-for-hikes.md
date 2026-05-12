@@ -21,6 +21,10 @@ A hydration reservoir is a flexible, usually BPA-free plastic or polyurethane bl
 
 They come in various sizes—typically from 1 to 3 liters—and include features like wide openings for easy filling and cleaning, insulation, anti-microbial coatings, and compatibility with different replacement parts.
 
+
+
+> **See also:** [Guide to Selecting the Right Backpack Size for Weekend Trips](https://campdeck.app/articles/guide-to-selecting-the-right-backpack-size-for-weekend-trips/)
+
 ## How Hydration Reservoirs Work
 
 1. **Filling and Installation:** You fill the reservoir with clean water from a wide opening or slide-seal top, then place it inside your pack’s hydration sleeve.

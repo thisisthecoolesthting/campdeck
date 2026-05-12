@@ -21,6 +21,10 @@ Compass and map navigation is the traditional method of orienting yourself on th
 
 Together, they help you determine your precise location, plan routes, and follow bearings to a destination.
 
+
+
+> **See also:** [How to Plan a Weekend Backpacking Route with Minimal Maps](https://campdeck.app/articles/how-to-plan-a-weekend-backpacking-route-with-minimal-maps/)
+
 ## How Compass and Map Navigation Works
 
 1. **Orienting the Map**  

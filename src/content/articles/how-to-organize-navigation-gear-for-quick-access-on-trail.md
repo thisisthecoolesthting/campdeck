@@ -26,6 +26,10 @@ Before organizing, set a baseline of what navigation gear you carry. Consider th
 
 The size and weight of these items vary widely. For example, paper maps weigh almost nothing but can be a handful to fold and unfold in wind or rain. GPS units add weight and require batteries, but accelerate route corrections at altitude where trails are faint.
 
+
+
+> **See also:** [Efficient Ways to Store Food and Keep It Safe While Camping](https://campdeck.app/articles/efficient-ways-to-store-food-and-keep-it-safe-while-camping/)
+
 ## 2. Define Quick Access Needs Based on Your Environment
 
 Consider how your navigation gear usage changes with variables like:

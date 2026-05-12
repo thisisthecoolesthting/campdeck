@@ -16,6 +16,10 @@ Navigating safely during a weekend backpacking trip is critical, especially when
 
 Essential navigation tools for backpacking help you determine your location, plan routes, and stay on track in diverse outdoor environments. These tools range from traditional maps and compasses to modern GPS devices and smartphone apps. Each tool has unique advantages and limitations in terms of weight, ease of use in poor weather, performance at altitude, and reaction to wind or environmental changes.
 
+
+
+> **See also:** [How to Use Compass and Map Skills for Backcountry Navigation](https://campdeck.app/articles/how-to-use-compass-and-map-skills-for-backcountry-navigation/)
+
 ## How These Tools Work
 
 - **Topographic Maps**: Paper maps show contour lines, trails, water sources, and landmarks to give you a detailed picture of the terrain. They don’t depend on batteries and work well in all weather conditions.

@@ -23,6 +23,10 @@ Backpack suspension systems fall broadly into two categories:
 
 Additionally, modern "frameless" packs rely on the pack’s shape and compression straps for structure but are generally reserved for ultralight loads.
 
+
+
+> **See also:** [Selecting the Ideal Backpack Frame for Weekend Hiking Comfort](https://campdeck.app/articles/selecting-the-ideal-backpack-frame-for-weekend-hiking-comfort/)
+
 ## How Backpack Suspension Systems Work
 
 The suspension system’s components work in harmony to transfer the backpack’s weight for maximum comfort and stability:

@@ -23,6 +23,10 @@ Speed and simplicity are the core demands when you want a quick meal in the back
 
 Let’s look at the three main stove types that dominate backpacking: canister stoves, liquid fuel stoves, and solid fuel or alcohol stoves. Each type has pros and cons around these key criteria, then rank the best-performing options for quick, reliable meals.
 
+
+
+> **See also:** [Top Tips for Cooking with Alcohol Stoves on Backpacking Trips](https://campdeck.app/articles/top-tips-for-cooking-with-alcohol-stoves-on-backpacking-trips/)
+
 ## Stove Types and Performance Factors
 
 ### 1. Canister Stoves (Isobutane-Propane)

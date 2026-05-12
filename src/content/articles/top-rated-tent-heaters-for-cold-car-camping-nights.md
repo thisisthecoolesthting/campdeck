@@ -23,6 +23,10 @@ A tent heater is a portable heating device designed to safely raise ambient temp
 - **Electric Heaters:** Require access to power (vehicle battery, generator, or battery pack). Offer dry, instant heat but limited by power source.
 - **Liquid Fuel Heaters:** Burn white gas or kerosene; robust and better suited for very cold temps but heavier and require ventilation.
 
+
+
+> **See also:** [How to Create a Comfortable Sleep System for Car Camping](https://campdeck.app/articles/how-to-create-a-comfortable-sleep-system-for-car-camping/)
+
 ## How to Choose the Right Tent Heater for Cold Car Camping Nights
 
 When selecting a tent heater for car camping, consider these criteria:

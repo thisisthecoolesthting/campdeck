@@ -16,6 +16,10 @@ If you’ve ever tried to find shade beside your vehicle while car camping or ta
 
 A DIY vehicle-side awning is a shade structure that attaches to your vehicle, extending out to provide sun and light rain protection. Unlike rooftop tents or free-standing shelters, it leverages your car or truck as the anchor point, saving you space and weight in your pack or cargo area. You can tailor the size, fabric, poles, and setup method to match the conditions you expect, whether that’s a calm lake shore or an exposed mountain parking area.
 
+
+
+> **See also:** [How to Set Up a Camp Kitchen at Your Vehicle Campsite](https://campdeck.app/articles/how-to-set-up-a-camp-kitchen-at-your-vehicle-campsite/)
+
 ## How to Set Up a DIY Awning: Step-by-Step
 
 ### Step 1: Choose Your Materials

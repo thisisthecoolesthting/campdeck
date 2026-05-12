@@ -19,6 +19,10 @@ If you’re planning a camping trip where your vehicle doubles as your sleeping 
 
 A vehicle bed setup transforms the interior (usually the back) of your car, SUV, or truck into a sleeping platform. The goal is to achieve a flat or near-flat surface that can accommodate a sleeping pad and sleeping bag comfortably, making use of available space while keeping essential gear organized and accessible.
 
+
+
+> **See also:** [How to Set Up a Camp Kitchen at Your Vehicle Campsite](https://campdeck.app/articles/how-to-set-up-a-camp-kitchen-at-your-vehicle-campsite/)
+
 ## How It Works: Key Components
 
 1. **Sleeping Platform/Base:** Often a removable frame or plywood board cut to your vehicle’s dimensions. It raises the bed off the floor to create storage space underneath.

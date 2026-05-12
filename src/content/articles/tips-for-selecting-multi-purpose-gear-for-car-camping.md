@@ -16,6 +16,10 @@ Choosing the right gear for car camping isn’t just about comfort—it’s abou
 
 Multi-purpose gear refers to equipment designed to serve more than one function, reducing the need to carry multiple items for different tasks. In car camping, where vehicle space is more generous than backpacking, multi-purpose items are still highly valuable. They save time during setup and teardown, limit decision fatigue, and can adapt to changing weather and terrain conditions. For example, a tarp that doubles as a rain shelter and ground cover, or cookware that can both cook meals and serve as drinking vessels.
 
+
+
+> **See also:** [How to Select the Perfect Car Roof Box for Camping Gear](https://campdeck.app/articles/how-to-select-the-perfect-car-roof-box-for-camping-gear/)
+
 ## How Multi-Purpose Gear Works in Car Camping
 
 Multi-purpose gear often incorporates design elements or materials that allow it to be repurposed easily. This might mean adjustable components, modular parts, or dual-function materials that perform in a variety of environments. For car campers especially, this means:

@@ -21,6 +21,10 @@ Car camping eases some of the gear-weight and space constraints of backpacking, 
 - **Four-season preparedness** so your kitchen works as well in chilly spring or fall as in summer.
 - **Altitude considerations** since boiling times change and winds pick up at higher elevations.
 
+
+
+> **See also:** [How to Set Up a Camp Kitchen at Your Vehicle Campsite](https://campdeck.app/articles/how-to-set-up-a-camp-kitchen-at-your-vehicle-campsite/)
+
 ## Key Elements of a Comfortable Car Camping Kitchen Setup
 
 ### 1. Choose the Right Cooking System

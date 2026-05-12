@@ -69,6 +69,10 @@ Keep heat-resistant gloves and long-handled tools handy to minimize burns and pr
 - Add larger wood only once the fire is burning strong and stable.
 - Maintain a consistent heat by adding small logs gradually; large logs take longer to catch and can smother flames.
 
+
+
+> **See also:** [Setting Up a Car Tent for Quick and Easy Shelter](https://campdeck.app/articles/setting-up-a-car-tent-for-quick-and-easy-shelter/)
+
 ## Tips for Cooking at Altitude and in Wind
 
 - **Altitude:** Because the boiling point of water decreases at altitude, cooking times may be longer even if simmering at a lower temperature. Plan extra time and consider bringing a lid for pots to conserve heat.

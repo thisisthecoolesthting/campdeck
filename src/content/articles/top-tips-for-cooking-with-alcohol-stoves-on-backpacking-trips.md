@@ -18,6 +18,10 @@ An alcohol stove is a minimalist portable stove that burns denatured alcohol or 
 
 They are especially popular among ultralight backpackers and car campers who don’t want the added weight of gas canisters or complicated systems.
 
+
+
+> **See also:** [Top Rated Backpacking Stoves for Quick and Easy Meals](https://campdeck.app/articles/top-rated-backpacking-stoves-for-quick-and-easy-meals/)
+
 ## How Alcohol Stoves Work
 
 An alcohol stove works by burning alcohol fumes evaporating from the fuel inside the burner. When lit, the heat causes the alcohol to vaporize, pushing the flame up through small jets (holes) around the stove perimeter. The flame produces a wide, even heat that’s easy to control by varying the fuel amount and pot height.

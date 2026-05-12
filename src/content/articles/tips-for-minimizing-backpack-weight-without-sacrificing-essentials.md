@@ -16,6 +16,10 @@ Minimizing the weight of your backpack without leaving behind essentials is a co
 
 Backpacking and car camping gear consists of essentials that fulfill shelter, sleep, hydration, nutrition, and weather protection needs. Minimizing backpack weight means carefully selecting gear and supplies that meet these needs efficiently and reliably, without redundancy or unnecessary bulk. Importantly, this process involves assessing your trip’s season, terrain, and expected weather conditions, as well as your own pace and physical fitness.
 
+
+
+> **See also:** [Packing Checklist for a Weekend Backpacking Adventure](https://campdeck.app/articles/packing-checklist-for-a-weekend-backpacking-adventure/)
+
 ## How It Works: Key Areas to Optimize for Lightweight Packing
 
 ### 1. Evaluate Your Essential Gear List

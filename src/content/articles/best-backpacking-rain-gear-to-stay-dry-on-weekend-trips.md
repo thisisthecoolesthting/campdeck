@@ -26,6 +26,10 @@ The goal is to balance:
 
 Because weekend trips provide the option to carry a moderate load compared to ultralight thru-hikes, you can afford slightly heavier gear for comfort and durability but should not go overboard.
 
+
+
+> **See also:** [How to Create a Comfortable Sleep System for Car Camping](https://campdeck.app/articles/how-to-create-a-comfortable-sleep-system-for-car-camping/)
+
 ## How Backpacking Rain Gear Works
 
 At a basic level, rain gear uses waterproof, breathable membrane materials (often polyurethane or ePTFE variants) laminated to fabric that blocks liquid water but lets tiny water vapor molecules escape. This prevents external rain from soaking through while allowing sweat and excess moisture from your body to evaporate.

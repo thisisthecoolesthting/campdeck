@@ -78,6 +78,10 @@ Walk through your planned route checklist:
 - Identify bailout points or easier exit trails.
 - Pack your minimal map, printed route notes, compass, and any supplemental navigation aids in an accessible place.
 
+
+
+> **See also:** [How to Use Compass and Map Skills for Backcountry Navigation](https://campdeck.app/articles/how-to-use-compass-and-map-skills-for-backcountry-navigation/)
+
 ## Summary Table: Minimal Map Route Planning Considerations
 
 | Factor                    | Recommendation                                          | Reasoning                                               |

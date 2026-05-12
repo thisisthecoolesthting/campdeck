@@ -24,6 +24,10 @@ Car tents come in various styles:
 
 Each variant balances setup speed and weight differently and behaves distinctively in challenging weather.
 
+
+
+> **See also:** [How to Set Up a Quick Campfire Cooking Station](https://campdeck.app/articles/how-to-set-up-a-quick-campfire-cooking-station/)
+
 ## How It Works
 
 Car tents typically use the vehicle as an anchor point. Setup involves securing the tent to the car with straps, clamps, or custom mounts, then extending the tent frame and securing additional support poles or guy lines to the ground. Some models use inflatable beams instead of poles, speeding setup and improving wind resistance at altitude.

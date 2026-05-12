@@ -21,6 +21,10 @@ Before diving into care routines, get to know the type of sleeping bag you own.
 
 The shell fabric (typically nylon or polyester with DWR coating) also affects how you should handle moisture and dirt, especially in rainy conditions.
 
+
+
+> **See also:** [How to Choose the Best Sleeping Quilt for Summer Camping](https://campdeck.app/articles/how-to-choose-the-best-sleeping-quilt-for-summer-camping/)
+
 ## 2. Proper Storage Between Trips
 
 How you store your sleeping bag profoundly affects its longevity:

@@ -23,6 +23,10 @@ Backpacking stoves generally use one of several common fuel types, each with dis
 
 Understanding what each fuel type brings to the table helps you match it to your trip’s needs.
 
+
+
+> **See also:** [How to Pack Smart for a Two-Day Backpacking Trip](https://campdeck.app/articles/how-to-pack-smart-for-a-two-day-backpacking-trip/)
+
 ## How Does Stove Fuel Impact Your Trip?
 
 Fuel affects multiple aspects of your trip, especially:

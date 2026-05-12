@@ -36,6 +36,10 @@ Your sleeping pad is the foundation of comfort and insulation. For car camping, 
 | Self-Inflating      | Moderate      | Moderate (2-4)       | Medium (5-10 min)| Moderate-High   | Moderate                      |
 | Closed-Cell Foam    | Low           | Low (~2)             | Instant        | Very High       | Heavy and bulky               |
 
+
+
+> **See also:** [How to Convert a Vehicle Interior into a Sleeping Space](https://campdeck.app/articles/how-to-convert-a-vehicle-interior-into-a-sleeping-space/)
+
 ## Step 2: Pick a Comfortable Sleeping Bag or Quilt
 
 When selecting insulation, you want a product designed for three-season use at minimum, with four-season readiness if you camp in colder climates or at altitude.

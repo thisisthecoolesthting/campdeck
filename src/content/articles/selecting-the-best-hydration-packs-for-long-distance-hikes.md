@@ -122,3 +122,5 @@ Actionable Tips for Choosing and Using Your Hydration Pack
 ---
 
 Choosing the right hydration pack for long distance hikes is about balancing capacity, weight, comfort, and functionality under the conditions you expect to face. Prioritizing fit, ease of access to water, and durability will keep you hydrated and comfortable mile after mile.
+
+> **See also:** [Best Backpacking Rain Gear to Stay Dry on Weekend Trips](https://campdeck.app/articles/best-backpacking-rain-gear-to-stay-dry-on-weekend-trips/)

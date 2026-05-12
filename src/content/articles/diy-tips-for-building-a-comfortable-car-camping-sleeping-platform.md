@@ -16,6 +16,10 @@ Building a comfortable sleeping platform for car camping isn’t just a nicety�
 
 A sleeping platform is a raised flat surface built inside a vehicle—usually over the wheel wells—aimed at creating a level, stable base for a sleeping area. Unlike air mattresses or portable cots, a custom platform uses your vehicle’s interior footprint efficiently, freeing storage underneath, improving comfort, and reducing setup time. It’s especially useful in SUVs, hatchbacks, vans, or trucks with enclosed beds.
 
+
+
+> **See also:** [How to Convert a Vehicle Interior into a Sleeping Space](https://campdeck.app/articles/how-to-convert-a-vehicle-interior-into-a-sleeping-space/)
+
 ## How It Works
 
 The platform sits atop a frame made from wood, metal, or other materials installed inside the vehicle. It needs to be rigid enough to support your weight and gear, yet lightweight enough for easy installation or removal. Sometimes platforms fold or break down into sections to aid portability. Surface materials may vary from plywood sheets to slatted frameworks designed for ventilation and mattress placement.

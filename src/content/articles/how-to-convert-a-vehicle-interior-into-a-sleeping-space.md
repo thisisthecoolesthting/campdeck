@@ -22,6 +22,10 @@ Before buying gear or start modifying your vehicle, you need an accurate underst
 
 This initial assessment anchors your decisions on what types of padding, bedding, and storage solutions to use.
 
+
+
+> **See also:** [How to Create a Comfortable Sleep System for Car Camping](https://campdeck.app/articles/how-to-create-a-comfortable-sleep-system-for-car-camping/)
+
 ## Step 2: Choose the Right Sleeping Platform
 
 Setting up a firm, comfortable sleeping surface is crucial to a good night's sleep and helping correct spinal alignment on uneven vehicle floors.
