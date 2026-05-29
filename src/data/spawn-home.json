@@ -5,19 +5,19 @@
     "taglineShort": "Gear that earns its weight.",
     "identity": {
       "palette": {
-        "primary": "#2D4A22",
-        "accent": "#D4820A",
-        "cream": "#F7F4EE",
-        "ink": "#1C2B17"
+        "primary": "#1E3A2F",
+        "accent": "#A24606",
+        "cream": "#F4F0E6",
+        "ink": "#0B1120"
       },
       "fonts": {
-        "display": "Space Grotesk",
-        "body": "Inter",
+        "display": "Merriweather",
+        "body": "IBM Plex Sans",
         "mono": "JetBrains Mono"
       },
       "mark": {
-        "svgPath": "brand/campdeck.svg",
-        "svgPublicPath": "/brand/campdeck.svg",
+        "svgPath": "brand/campdeck-mark.png",
+        "svgPublicPath": "/brand/campdeck-mark.png",
         "sizeRem": 1.75,
         "position": "left-of-wordmark"
       },
@@ -28,7 +28,7 @@
       },
       "headerVariant": "minimal",
       "eyebrowText": "CAMPING & OUTDOOR GEAR",
-      "fontCssHref": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;600;700&display=swap"
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Merriweather:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap"
     }
   },
   "persona": {
@@ -65,7 +65,7 @@
     "ctaSecondaryLabel": "First camping kit",
     "ctaSecondaryHref": "/pillars/first-camping-kit",
     "trustLine": "Gear tested on real trips, in real weather. Bought at retail. No brand partnerships.",
-    "heroImageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=1600&q=85"
+    "heroImageUrl": "/images/hero-campdeck.webp"
   },
   "about": {
     "headline": "Why CampDeck exists",
