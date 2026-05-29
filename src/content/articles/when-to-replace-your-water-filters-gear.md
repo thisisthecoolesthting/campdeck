@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing water-filters with fewer
 publishedAt: '2026-04-30'
 pubDate: '2026-04-30'
 updatedAt: '2026-05-08'
-heroImage: ''
+heroImage: /images/hero/when-to-replace-your-water-filters-gear.jpg
 excerpt: A practical, buyer-focused guide to comparing water-filters options for campdeck.app.
 pillarSlug: water-filters
 relatedProducts: []

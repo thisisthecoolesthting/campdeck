@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing sleeping-bags with fewer
 publishedAt: '2026-05-02'
 pubDate: '2026-05-02'
 updatedAt: '2026-05-02'
-heroImage: ''
+heroImage: /images/hero/the-quiet-features-that-make-sleeping-bags-easier-to-use-3.jpg
 excerpt: A practical, buyer-focused guide to comparing sleeping-bags options for campdeck.app.
 pillarSlug: sleeping-bags
 relatedProducts: []

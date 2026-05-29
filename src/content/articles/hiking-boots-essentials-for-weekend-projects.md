@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing hiking-boots with fewer 
 publishedAt: '2026-05-07'
 pubDate: '2026-05-07'
 updatedAt: '2026-05-08'
-heroImage: ''
+heroImage: /images/hero/hiking-boots-essentials-for-weekend-projects.jpg
 excerpt: A practical, buyer-focused guide to comparing hiking-boots options for campdeck.app.
 pillarSlug: hiking-boots
 relatedProducts: []

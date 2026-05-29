@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing camp-chairs with fewer r
 publishedAt: '2026-05-06'
 pubDate: '2026-05-06'
 updatedAt: '2026-05-03'
-heroImage: ''
+heroImage: /images/hero/how-to-compare-camp-chairs-before-you-buy-3.jpg
 excerpt: A practical, buyer-focused guide to comparing camp-chairs options for campdeck.app.
 pillarSlug: camp-chairs
 relatedProducts: []

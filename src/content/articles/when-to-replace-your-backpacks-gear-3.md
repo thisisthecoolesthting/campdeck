@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing backpacks with fewer reg
 publishedAt: '2026-05-01'
 pubDate: '2026-05-01'
 updatedAt: '2026-05-02'
-heroImage: ''
+heroImage: /images/hero/when-to-replace-your-backpacks-gear-3.jpg
 excerpt: A practical, buyer-focused guide to comparing backpacks options for campdeck.app.
 pillarSlug: backpacks
 relatedProducts: []

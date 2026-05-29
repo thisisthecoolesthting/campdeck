@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing hiking-boots with fewer 
 publishedAt: '2026-05-09'
 pubDate: '2026-05-09'
 updatedAt: '2026-05-04'
-heroImage: ''
+heroImage: /images/hero/best-hiking-boots-upgrades-for-small-spaces-3.jpg
 excerpt: A practical, buyer-focused guide to comparing hiking-boots options for campdeck.app.
 pillarSlug: hiking-boots
 relatedProducts: []

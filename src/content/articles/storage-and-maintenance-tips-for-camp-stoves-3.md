@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing camp-stoves with fewer r
 publishedAt: '2026-05-03'
 pubDate: '2026-05-03'
 updatedAt: '2026-05-01'
-heroImage: ''
+heroImage: /images/hero/storage-and-maintenance-tips-for-camp-stoves-3.jpg
 excerpt: A practical, buyer-focused guide to comparing camp-stoves options for campdeck.app.
 pillarSlug: camp-stoves
 relatedProducts: []

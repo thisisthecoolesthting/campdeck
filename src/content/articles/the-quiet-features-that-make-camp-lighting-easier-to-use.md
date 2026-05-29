@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing camp-lighting with fewer
 publishedAt: '2026-05-02'
 pubDate: '2026-05-02'
 updatedAt: '2026-05-09'
-heroImage: ''
+heroImage: /images/hero/the-quiet-features-that-make-camp-lighting-easier-to-use.jpg
 excerpt: A practical, buyer-focused guide to comparing camp-lighting options for campdeck.app.
 pillarSlug: camp-lighting
 relatedProducts: []

@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing tents with fewer regrets
 publishedAt: '2026-05-06'
 pubDate: '2026-05-06'
 updatedAt: '2026-05-06'
-heroImage: ''
+heroImage: /images/hero/how-to-compare-tents-before-you-buy-2.jpg
 excerpt: A practical, buyer-focused guide to comparing tents options for campdeck.app.
 pillarSlug: tents
 relatedProducts: []

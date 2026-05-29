@@ -8,7 +8,7 @@ tags:
 - best sleeping bag for cold weather camping
 - ultralight backpack under 3 pounds
 status: published
-heroImage: ''
+heroImage: /images/hero/best-sleeping-bag-for-cold-weather-camping.jpg
 publishedAt: '2026-05-08'
 ---
 

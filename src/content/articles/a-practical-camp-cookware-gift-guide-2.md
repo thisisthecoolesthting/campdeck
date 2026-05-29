@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing camp-cookware with fewer
 publishedAt: '2026-05-10'
 pubDate: '2026-05-10'
 updatedAt: '2026-05-04'
-heroImage: ''
+heroImage: /images/hero/a-practical-camp-cookware-gift-guide-2.jpg
 excerpt: A practical, buyer-focused guide to comparing camp-cookware options for campdeck.app.
 pillarSlug: camp-cookware
 relatedProducts: []

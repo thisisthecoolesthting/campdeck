@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing backpacks with fewer reg
 publishedAt: '2026-05-06'
 pubDate: '2026-05-06'
 updatedAt: '2026-05-10'
-heroImage: ''
+heroImage: /images/hero/how-to-compare-backpacks-before-you-buy.jpg
 excerpt: A practical, buyer-focused guide to comparing backpacks options for campdeck.app.
 pillarSlug: backpacks
 relatedProducts: []

@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing sleeping-bags with fewer
 publishedAt: '2026-05-07'
 pubDate: '2026-05-07'
 updatedAt: '2026-05-06'
-heroImage: ''
+heroImage: /images/hero/budget-versus-premium-sleeping-bags-what-actually-matters-2.jpg
 excerpt: A practical, buyer-focused guide to comparing sleeping-bags options for campdeck.app.
 pillarSlug: sleeping-bags
 relatedProducts: []

@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing sleeping-bags with fewer
 publishedAt: '2026-05-05'
 pubDate: '2026-05-05'
 updatedAt: '2026-05-10'
-heroImage: ''
+heroImage: /images/hero/sleeping-bags-buying-mistakes-to-avoid.jpg
 excerpt: A practical, buyer-focused guide to comparing sleeping-bags options for campdeck.app.
 pillarSlug: sleeping-bags
 relatedProducts: []

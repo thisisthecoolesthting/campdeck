@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing water-filters with fewer
 publishedAt: '2026-05-01'
 pubDate: '2026-05-01'
 updatedAt: '2026-05-04'
-heroImage: ''
+heroImage: /images/hero/water-filters-essentials-for-weekend-projects-2.jpg
 excerpt: A practical, buyer-focused guide to comparing water-filters options for campdeck.app.
 pillarSlug: water-filters
 relatedProducts: []

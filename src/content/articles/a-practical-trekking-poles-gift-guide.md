@@ -1,13 +1,11 @@
 ---
 title: A practical trekking-poles gift guide
-metaDescription: A practical CampDeck guide to choosing trekking-poles with fewer
-  regrets.
+metaDescription: A practical CampDeck guide to choosing trekking-poles with fewer regrets.
 publishedAt: '2026-05-10'
 pubDate: '2026-05-10'
 updatedAt: '2026-05-07'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing trekking-poles options for
-  campdeck.app.
+heroImage: /images/hero/a-practical-trekking-poles-gift-guide.jpg
+excerpt: A practical, buyer-focused guide to comparing trekking-poles options for campdeck.app.
 pillarSlug: trekking-poles
 relatedProducts: []
 status: published

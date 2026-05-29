@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing camp-cookware with fewer
 publishedAt: '2026-05-04'
 pubDate: '2026-05-04'
 updatedAt: '2026-05-08'
-heroImage: ''
+heroImage: /images/hero/storage-and-maintenance-tips-for-camp-cookware.jpg
 excerpt: A practical, buyer-focused guide to comparing camp-cookware options for campdeck.app.
 pillarSlug: camp-cookware
 relatedProducts: []

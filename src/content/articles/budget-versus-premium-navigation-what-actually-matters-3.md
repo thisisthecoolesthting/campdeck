@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing navigation with fewer re
 publishedAt: '2026-05-07'
 pubDate: '2026-05-07'
 updatedAt: '2026-05-03'
-heroImage: ''
+heroImage: /images/hero/budget-versus-premium-navigation-what-actually-matters-3.jpg
 excerpt: A practical, buyer-focused guide to comparing navigation options for campdeck.app.
 pillarSlug: navigation
 relatedProducts: []

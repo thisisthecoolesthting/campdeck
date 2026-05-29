@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing camp-stoves with fewer r
 publishedAt: '2026-05-08'
 pubDate: '2026-05-08'
 updatedAt: '2026-05-09'
-heroImage: ''
+heroImage: /images/hero/budget-versus-premium-camp-stoves-what-actually-matters.jpg
 excerpt: A practical, buyer-focused guide to comparing camp-stoves options for campdeck.app.
 pillarSlug: camp-stoves
 relatedProducts: []

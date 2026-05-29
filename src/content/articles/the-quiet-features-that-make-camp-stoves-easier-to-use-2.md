@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing camp-stoves with fewer r
 publishedAt: '2026-05-02'
 pubDate: '2026-05-02'
 updatedAt: '2026-05-05'
-heroImage: ''
+heroImage: /images/hero/the-quiet-features-that-make-camp-stoves-easier-to-use-2.jpg
 excerpt: A practical, buyer-focused guide to comparing camp-stoves options for campdeck.app.
 pillarSlug: camp-stoves
 relatedProducts: []

@@ -1,13 +1,11 @@
 ---
 title: trekking-poles buying mistakes to avoid (3)
-metaDescription: A practical CampDeck guide to choosing trekking-poles with fewer
-  regrets.
+metaDescription: A practical CampDeck guide to choosing trekking-poles with fewer regrets.
 publishedAt: '2026-05-01'
 pubDate: '2026-05-01'
 updatedAt: '2026-05-03'
-heroImage: ''
-excerpt: A practical, buyer-focused guide to comparing trekking-poles options for
-  campdeck.app.
+heroImage: /images/hero/trekking-poles-buying-mistakes-to-avoid-3.jpg
+excerpt: A practical, buyer-focused guide to comparing trekking-poles options for campdeck.app.
 pillarSlug: trekking-poles
 relatedProducts: []
 status: published

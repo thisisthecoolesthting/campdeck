@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing sleeping-pads with fewer
 publishedAt: '2026-04-30'
 pubDate: '2026-04-30'
 updatedAt: '2026-05-05'
-heroImage: ''
+heroImage: /images/hero/when-to-replace-your-sleeping-pads-gear-2.jpg
 excerpt: A practical, buyer-focused guide to comparing sleeping-pads options for campdeck.app.
 pillarSlug: sleeping-pads
 relatedProducts: []

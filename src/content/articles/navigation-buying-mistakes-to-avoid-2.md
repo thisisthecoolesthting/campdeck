@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing navigation with fewer re
 publishedAt: '2026-05-05'
 pubDate: '2026-05-05'
 updatedAt: '2026-05-07'
-heroImage: ''
+heroImage: /images/hero/navigation-buying-mistakes-to-avoid-2.jpg
 excerpt: A practical, buyer-focused guide to comparing navigation options for campdeck.app.
 pillarSlug: navigation
 relatedProducts: []

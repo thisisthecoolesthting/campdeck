@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing camp-chairs with fewer r
 publishedAt: '2026-05-09'
 pubDate: '2026-05-09'
 updatedAt: '2026-05-07'
-heroImage: ''
+heroImage: /images/hero/best-camp-chairs-upgrades-for-small-spaces-2.jpg
 excerpt: A practical, buyer-focused guide to comparing camp-chairs options for campdeck.app.
 pillarSlug: camp-chairs
 relatedProducts: []

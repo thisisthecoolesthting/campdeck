@@ -4,7 +4,7 @@ metaDescription: A practical CampDeck guide to choosing tents with fewer regrets
 publishedAt: '2026-05-08'
 pubDate: '2026-05-08'
 updatedAt: '2026-05-10'
-heroImage: ''
+heroImage: /images/hero/best-tents-upgrades-for-small-spaces.jpg
 excerpt: A practical, buyer-focused guide to comparing tents options for campdeck.app.
 pillarSlug: tents
 relatedProducts: []
