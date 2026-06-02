@@ -13,6 +13,7 @@ reviewCount: 6480
 bsr: 112
 commissionPerSale: 0.0
 score: 48.6
+imageUrl: "/images/amazon-picks/B001GISXNA.jpg"
 affiliateUrl: "https://www.amazon.com/dp/B001GISXNA?tag=campdeck-20&linkCode=ll1&language=en_US"
 isPrime: true
 status: "published"

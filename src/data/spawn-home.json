@@ -65,7 +65,7 @@
     "ctaSecondaryLabel": "First camping kit",
     "ctaSecondaryHref": "/pillars/first-camping-kit",
     "trustLine": "Gear tested on real trips, in real weather. Bought at retail. No brand partnerships.",
-    "heroImageUrl": "/images/hero-campdeck.webp"
+    "heroImageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=1600&q=85"
   },
   "about": {
     "headline": "Why CampDeck exists",
@@ -75,5 +75,27 @@
     "ga_measurement_id": "",
     "ga_property_id": "",
     "search_console_property": "https://campdeck.app/"
-  }
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ]
 }
