@@ -15,7 +15,7 @@ rating: 4.5
 bsr: 2
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41-UwHjbdpL.jpg
+imageUrl: /images/products/B08R3515SF.jpg
 affiliateUrl: https://www.amazon.com/dp/B08R3515SF?tag=campdeck-20
 isPrime: false
 status: draft
@@ -26,7 +26,6 @@ cardTitle: Soldering Iron Kit, 80W 110V LCD Digital Solder Iron Pen with Ceramic
   Po
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

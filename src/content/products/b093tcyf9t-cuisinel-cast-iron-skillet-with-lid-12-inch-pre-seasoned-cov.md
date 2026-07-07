@@ -15,7 +15,7 @@ rating: 4.7
 bsr: 56
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41nIznqiQsL.jpg
+imageUrl: /images/products/B093TCYF9T.jpg
 affiliateUrl: https://www.amazon.com/dp/B093TCYF9T?tag=campdeck-20
 isPrime: false
 status: draft
@@ -26,7 +26,6 @@ cardTitle: Cuisinel Cast Iron Skillet with Lid - 12"-inch Pre-Seasoned Covered F
   Pan S
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

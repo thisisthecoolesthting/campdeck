@@ -10,7 +10,7 @@ rating: 4.8
 bsr: 12
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41tgtN1+SgL.jpg
+imageUrl: /images/products/B0014D3N0Q.jpg
 affiliateUrl: https://www.amazon.com/dp/B0014D3N0Q?tag=campdeck-20
 isPrime: false
 status: draft
@@ -20,7 +20,6 @@ slug: b0014d3n0q-downy-fabric-softener-dryer-sheets-april-fresh-120-count
 cardTitle: Downy Fabric Softener Dryer Sheets, April Fresh, 120 Count
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

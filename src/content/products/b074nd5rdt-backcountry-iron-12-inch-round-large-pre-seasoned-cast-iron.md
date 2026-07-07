@@ -10,7 +10,7 @@ rating: 4.6
 bsr: 113
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41nbDb8lo4L.jpg
+imageUrl: /images/products/B074ND5RDT.jpg
 affiliateUrl: https://www.amazon.com/dp/B074ND5RDT?tag=campdeck-20
 isPrime: false
 status: draft
@@ -20,7 +20,6 @@ slug: b074nd5rdt-backcountry-iron-12-inch-round-large-pre-seasoned-cast-iron-
 cardTitle: Backcountry Iron 12 Inch Round Large Pre-Seasoned Cast Iron Skillet
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview

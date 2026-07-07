@@ -14,7 +14,7 @@ rating: 4.7
 bsr: 1
 commissionPerSale: 0
 score: 0
-imageUrl: https://m.media-amazon.com/images/I/41WCQ-X4ztL.jpg
+imageUrl: /images/products/B00063RWT8.jpg
 affiliateUrl: https://www.amazon.com/dp/B00063RWT8?tag=campdeck-20
 isPrime: false
 status: draft
@@ -25,7 +25,6 @@ cardTitle: Lodge Seasoned Cast Iron Skillet 6.5 Inches - PFAS-Free, Non-Toxic Co
   - Us
 cardPick: Solid pick for most readers
 tags: []
-imageFlagged: true
 ---
 
 ## Overview
