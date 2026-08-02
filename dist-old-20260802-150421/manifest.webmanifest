@@ -1,0 +1,25 @@
+{
+  "name": "campdeck.",
+  "short_name": "campdeck",
+  "theme_color": "#1F4E3D",
+  "background_color": "#F4F0E8",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
