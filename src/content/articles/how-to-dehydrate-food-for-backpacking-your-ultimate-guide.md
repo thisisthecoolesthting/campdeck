@@ -1,9 +1,9 @@
 ---
-title: "How to Dehydrate Food for Backpacking: Your Ultimate Guide"
-metaDescription: "Dehydrating food is one of the best ways to prepare lightweight, nutritious, and long-lasting meals for backpacking. By removing moisture, you signifi"
+title: 'How to Dehydrate Food for Backpacking: Your Ultimate Guide'
+metaDescription: Dehydrating food is one of the best ways to prepare lightweight, nutritious, and long-lasting meals for backpacking. By removing moisture, you signifi
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Dehydrating food is one of the best ways to prepare lightweight, nutritious, and long-lasting meals for backpacking. By removing moisture, you signifi"
+excerpt: Dehydrating food is one of the best ways to prepare lightweight, nutritious, and long-lasting meals for backpacking. By removing moisture, you signifi
 author: alex-mercer-pleasurewatch
 tags: []
 site: campdeck
@@ -104,3 +104,11 @@ Avoid dehydrators with poor ventilation or fixed temperatures, as they can compr
 - **Mix flavors**: Combine dehydrated veggies, meats, and grains for one-pot meals.  
 
 With practice, dehydrating your own backpacking food becomes an easy way to eat well on the trail while saving weight and money. Happy trails—and happy drying!
+
+## Our picks worth a closer look
+
+- **[Osprey Atmos AG 65 Men's Backpacking Pack](/products/b001gisxna-osprey-atmos-ag-65-backpack/)** — see current price and specs.
+- **[Nalgene 32oz Tritan Wide Mouth BPA Free Water Bottle](/products/b003ocrcfq-nalgene-32oz-wide-mouth-bottle/)** — see current price and specs.
+- **[MSR Hubba NX Solo Backpacking Tent](/products/b00nkpmpeo-msr-hubba-nx-1-person-tent/)** — see current price and specs.
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

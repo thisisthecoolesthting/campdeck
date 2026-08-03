@@ -1,21 +1,21 @@
 ---
-title: "camp-lighting-power-sources"
+title: camp-lighting-power-sources
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "camp-lighting-power-sources"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: camp-lighting-power-sources
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.827Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.827Z'
-metaDescription: "camp-lighting-power-sources"
-excerpt: "camp-lighting-power-sources"
+metaDescription: camp-lighting-power-sources
+excerpt: camp-lighting-power-sources
 heroImage: /images/heroes/camp-lighting-power-sources.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -109,3 +109,8 @@ Ultimately, the best camp lighting power source for you depends on your individu
 *   **Durability:** Look for lights made from durable materials that can withstand the rigors of camping.
 
 By carefully considering these factors, you can choose the best camp lighting power source to illuminate your next outdoor adventure. Don't underestimate the value of having redundant light sources: a headlamp with fresh batteries, a small solar lantern, and a hand-crank flashlight can keep you safe and comfortable in any situation.
+
+## Our picks worth a closer look
+
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

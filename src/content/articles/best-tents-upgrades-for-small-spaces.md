@@ -1,21 +1,21 @@
 ---
-title: "best-tents-upgrades-for-small-spaces"
+title: best-tents-upgrades-for-small-spaces
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "best-tents-upgrades-for-small-spaces"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: best-tents-upgrades-for-small-spaces
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.811Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.811Z'
-metaDescription: "best-tents-upgrades-for-small-spaces"
-excerpt: "best-tents-upgrades-for-small-spaces"
+metaDescription: best-tents-upgrades-for-small-spaces
+excerpt: best-tents-upgrades-for-small-spaces
 heroImage: /images/heroes/best-tents-upgrades-for-small-spaces.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -48,3 +48,8 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 - [How to compare tents before you buy (2)](/articles/how-to-compare-tents-before-you-buy-2/)
 - [tents setup checklist for beginners (3)](/articles/tents-setup-checklist-for-beginners-3/)
+
+## Our picks worth a closer look
+
+- **[MSR Hubba NX Solo Backpacking Tent](/products/b00nkpmpeo-msr-hubba-nx-1-person-tent/)** — see current price and specs.
+

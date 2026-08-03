@@ -1,30 +1,30 @@
 ---
-asin: "B001GISXNA"
-slug: "b001gisxna-osprey-atmos-ag-65-backpack"
-title: "Osprey Atmos AG 65 Men's Backpacking Pack"
-seoTitle: "Osprey Atmos AG 65 Review | CampDeck"
-metaDescription: "Osprey Atmos AG 65: anti-gravity suspension performance, fit adjustment range, and comparison to the Gregory Baltoro 65."
-cardTitle: "Osprey Atmos AG 65"
-cardPick: "Best full-featured 65L backpacking pack"
-category: "backpacking-packs"
+asin: B001GISXNA
+slug: b001gisxna-osprey-atmos-ag-65-backpack
+title: Osprey Atmos AG 65 Men's Backpacking Pack
+seoTitle: Osprey Atmos AG 65 Review | CampDeck
+metaDescription: 'Osprey Atmos AG 65: anti-gravity suspension performance, fit adjustment range, and comparison to the Gregory Baltoro 65.'
+cardTitle: Osprey Atmos AG 65
+cardPick: Best full-featured 65L backpacking pack
+category: backpacking-packs
 price: 330.0
 rating: 4.8
 reviewCount: 6480
 bsr: 112
 commissionPerSale: 0.0
 score: 48.6
-imageUrl: "/images/amazon-picks/B001GISXNA.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B001GISXNA?tag=campdeck-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B001GISXNA.jpg
+affiliateUrl: https://www.amazon.com/dp/B001GISXNA?tag=campdeck-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T15:07:57+00:00'
 tags:
-  - backpack
-  - osprey
-  - backpacking
-  - ultralight
-author: "jordan-vale"
+- backpack
+- osprey
+- backpacking
+- ultralight
+author: jordan-vale
 ---
 # Osprey Atmos AG 65 — The Anti-Gravity Suspension That Changed Load Comfort
 

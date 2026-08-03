@@ -1,21 +1,21 @@
 ---
-title: "the-quiet-features-that-make-camp-lighting-easier-to-use"
+title: the-quiet-features-that-make-camp-lighting-easier-to-use
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "the-quiet-features-that-make-camp-lighting-easier-to-use"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: the-quiet-features-that-make-camp-lighting-easier-to-use
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.866Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.866Z'
-metaDescription: "the-quiet-features-that-make-camp-lighting-easier-to-use"
-excerpt: "the-quiet-features-that-make-camp-lighting-easier-to-use"
+metaDescription: the-quiet-features-that-make-camp-lighting-easier-to-use
+excerpt: the-quiet-features-that-make-camp-lighting-easier-to-use
 heroImage: /images/heroes/the-quiet-features-that-make-camp-lighting-easier-to-use.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -48,3 +48,8 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 - [A practical camp-lighting gift guide (3)](/articles/a-practical-camp-lighting-gift-guide-3/)
 - [Storage and maintenance tips for camp-lighting (2)](/articles/storage-and-maintenance-tips-for-camp-lighting-2/)
+
+## Our picks worth a closer look
+
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

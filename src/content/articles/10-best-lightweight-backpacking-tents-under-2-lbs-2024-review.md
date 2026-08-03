@@ -1,9 +1,9 @@
 ---
-title: "10 Best Lightweight Backpacking Tents Under 2 lbs (2024 Review)"
-metaDescription: "When it comes to backpacking, every ounce matters. A lightweight tent can make the difference between an enjoyable trek and a grueling slog. In 2024,"
+title: 10 Best Lightweight Backpacking Tents Under 2 lbs (2024 Review)
+metaDescription: When it comes to backpacking, every ounce matters. A lightweight tent can make the difference between an enjoyable trek and a grueling slog. In 2024,
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "When it comes to backpacking, every ounce matters. A lightweight tent can make the difference between an enjoyable trek and a grueling slog. In 2024,"
+excerpt: When it comes to backpacking, every ounce matters. A lightweight tent can make the difference between an enjoyable trek and a grueling slog. In 2024,
 author: alex-mercer-pleasurewatch
 tags: []
 site: campdeck
@@ -99,3 +99,11 @@ The Sea to Summit Alto TR1 is a freestanding tent that’s easy to pitch and pac
 6. **Space:** Consider the tent’s interior size and vestibule storage for gear.  
 
 Choosing the right tent depends on your specific needs, whether it’s weight savings, durability, or ease of use. With these options, you’re sure to find the perfect shelter for your next backpacking adventure.
+
+## Our picks worth a closer look
+
+- **[MSR Hubba NX Solo Backpacking Tent](/products/b00nkpmpeo-msr-hubba-nx-1-person-tent/)** — see current price and specs.
+- **[Osprey Atmos AG 65 Men's Backpacking Pack](/products/b001gisxna-osprey-atmos-ag-65-backpack/)** — see current price and specs.
+- **[Nalgene 32oz Tritan Wide Mouth BPA Free Water Bottle](/products/b003ocrcfq-nalgene-32oz-wide-mouth-bottle/)** — see current price and specs.
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

@@ -1,21 +1,21 @@
 ---
-title: "ultralight-camp-coffee-methods"
+title: ultralight-camp-coffee-methods
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "ultralight-camp-coffee-methods"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: ultralight-camp-coffee-methods
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.873Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.873Z'
-metaDescription: "ultralight-camp-coffee-methods"
-excerpt: "ultralight-camp-coffee-methods"
+metaDescription: ultralight-camp-coffee-methods
+excerpt: ultralight-camp-coffee-methods
 heroImage: /images/heroes/ultralight-camp-coffee-methods.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -86,3 +86,10 @@ If your trip is centered around a base camp—where you hike in, set up, and do 
 Regardless of your choice, remember that your coffee method is only as good as your water source and your ability to manage your waste. Always pack out your grounds and filters. A ridgeline view is ruined by a pile of wet paper filters, and gear that doesn't respect the environment eventually loses its place in our kit. Before you head out, make sure your [camp-stoves maintenance](/articles/storage-and-maintenance-tips-for-camp-stoves-3/) is up to date; there is nothing worse than a perfectly measured coffee setup and a stove that won't light because of a clogged jet. 
 
 Keep your kit simple, test it before you leave the trailhead, and prioritize gear that makes the morning better, not just heavier.
+
+## Our picks worth a closer look
+
+- **[Osprey Atmos AG 65 Men's Backpacking Pack](/products/b001gisxna-osprey-atmos-ag-65-backpack/)** — see current price and specs.
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[MSR Hubba NX Solo Backpacking Tent](/products/b00nkpmpeo-msr-hubba-nx-1-person-tent/)** — see current price and specs.
+

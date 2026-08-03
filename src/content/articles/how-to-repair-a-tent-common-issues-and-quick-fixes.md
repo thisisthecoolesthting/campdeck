@@ -1,9 +1,9 @@
 ---
-title: "How to Repair a Tent: Common Issues and Quick Fixes"
-metaDescription: "A reliable tent is essential for a comfortable camping trip, but wear and tear—or unexpected accidents—can leave you with rips, broken poles, or leaks"
+title: 'How to Repair a Tent: Common Issues and Quick Fixes'
+metaDescription: A reliable tent is essential for a comfortable camping trip, but wear and tear—or unexpected accidents—can leave you with rips, broken poles, or leaks
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "A reliable tent is essential for a comfortable camping trip, but wear and tear—or unexpected accidents—can leave you with rips, broken poles, or leaks"
+excerpt: A reliable tent is essential for a comfortable camping trip, but wear and tear—or unexpected accidents—can leave you with rips, broken poles, or leaks
 author: alex-mercer-pleasurewatch
 tags: []
 site: campdeck
@@ -132,3 +132,8 @@ Before attempting repairs, inspect your tent thoroughly:
 - Address minor issues early to avoid costly replacements.  
 
 With these fixes, you’ll keep your tent in top shape for many adventures to come!
+
+## Our picks worth a closer look
+
+- **[MSR Hubba NX Solo Backpacking Tent](/products/b00nkpmpeo-msr-hubba-nx-1-person-tent/)** — see current price and specs.
+

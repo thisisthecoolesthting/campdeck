@@ -1,21 +1,21 @@
 ---
-title: "trekking-poles-buying-mistakes-to-avoid-3"
+title: trekking-poles-buying-mistakes-to-avoid-3
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "trekking-poles-buying-mistakes-to-avoid-3"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: trekking-poles-buying-mistakes-to-avoid-3
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.872Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.872Z'
-metaDescription: "trekking-poles-buying-mistakes-to-avoid-3"
-excerpt: "trekking-poles-buying-mistakes-to-avoid-3"
+metaDescription: trekking-poles-buying-mistakes-to-avoid-3
+excerpt: trekking-poles-buying-mistakes-to-avoid-3
 heroImage: /images/heroes/trekking-poles-buying-mistakes-to-avoid-3.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -50,3 +50,9 @@ Before buying, confirm measurements, check what is included in the box, and scan
 - [A practical camp-lighting gift guide (3)](/articles/a-practical-camp-lighting-gift-guide-3/)
 - [A practical trekking-poles gift guide](/articles/a-practical-trekking-poles-gift-guide/)
 - [backpacks setup checklist for beginners (2)](/articles/backpacks-setup-checklist-for-beginners-2/)
+
+## Our picks worth a closer look
+
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+

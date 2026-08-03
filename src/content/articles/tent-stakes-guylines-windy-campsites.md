@@ -1,21 +1,21 @@
 ---
-title: "tent-stakes-guylines-windy-campsites"
+title: tent-stakes-guylines-windy-campsites
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "tent-stakes-guylines-windy-campsites"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: tent-stakes-guylines-windy-campsites
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.864Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.864Z'
-metaDescription: "tent-stakes-guylines-windy-campsites"
-excerpt: "tent-stakes-guylines-windy-campsites"
+metaDescription: tent-stakes-guylines-windy-campsites
+excerpt: tent-stakes-guylines-windy-campsites
 heroImage: /images/heroes/tent-stakes-guylines-windy-campsites.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -73,3 +73,8 @@ It is tempting to look for "indestructible" gear, but we’ve found that the bes
 If you want to refine your setup further, consider reviewing your [backpacks setup checklist for beginners](/articles/backpacks-setup-checklist-for-beginners-2/) to ensure you aren't carrying unnecessary weight elsewhere to compensate for a heavy anchoring kit. You don’t need a bucket of stakes; you need six high-quality ones and the knowledge of how to use the ground around you to secure the rest. 
 
 Remember: the wind doesn't care about your brand-name tent. It cares about surface area and tension. Keep your lines tight, your stakes angled, and your tent footprint clear of the weather’s path.
+
+## Our picks worth a closer look
+
+- **[MSR Hubba NX Solo Backpacking Tent](/products/b00nkpmpeo-msr-hubba-nx-1-person-tent/)** — see current price and specs.
+

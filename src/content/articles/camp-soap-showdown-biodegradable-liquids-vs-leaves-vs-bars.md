@@ -1,21 +1,21 @@
 ---
-title: "camp-soap-showdown-biodegradable-liquids-vs-leaves-vs-bars"
+title: camp-soap-showdown-biodegradable-liquids-vs-leaves-vs-bars
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "camp-soap-showdown-biodegradable-liquids-vs-leaves-vs-bars"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: camp-soap-showdown-biodegradable-liquids-vs-leaves-vs-bars
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.832Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.832Z'
-metaDescription: "camp-soap-showdown-biodegradable-liquids-vs-leaves-vs-bars"
-excerpt: "camp-soap-showdown-biodegradable-liquids-vs-leaves-vs-bars"
+metaDescription: camp-soap-showdown-biodegradable-liquids-vs-leaves-vs-bars
+excerpt: camp-soap-showdown-biodegradable-liquids-vs-leaves-vs-bars
 heroImage: /images/heroes/camp-soap-showdown-biodegradable-liquids-vs-leaves-vs-bars.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -112,3 +112,8 @@ The best type of camp soap depends on your individual needs and preferences.
 *   **For shorter trips and those who prefer a traditional approach:** Bar soap can be a good option, provided you're willing to carry the extra weight and bulk.
 
 Consider the length of your trip, the types of cleaning tasks you'll need to perform, and your personal preferences when making your decision. No matter which option you choose, remember to use it responsibly and minimize your impact on the environment. Don't forget to check our recommendations for the [best backpacks](backpacks setup checklist for beginners) to carry all your gear!
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

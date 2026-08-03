@@ -1,21 +1,21 @@
 ---
-title: "best-camp-lighting-for-reading"
+title: best-camp-lighting-for-reading
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "best-camp-lighting-for-reading"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: best-camp-lighting-for-reading
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.804Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.804Z'
-metaDescription: "best-camp-lighting-for-reading"
-excerpt: "best-camp-lighting-for-reading"
+metaDescription: best-camp-lighting-for-reading
+excerpt: best-camp-lighting-for-reading
 heroImage: /images/heroes/best-camp-lighting-for-reading.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -97,3 +97,8 @@ Solar-powered lights are a great option for longer trips or when you want to min
 Think about energy use. LED bulbs are much more efficient than older incandescent or halogen bulbs, meaning you'll get more light for less power. This translates to longer battery life or less frequent recharging. Check out our guide on *storage and maintenance tips for camp-lighting* for more information.
 
 Ultimately, the best camp lighting for reading depends on your individual preferences and needs. By considering brightness, color temperature, adjustability, and power source, you can choose a light that will provide comfortable and effective illumination for your reading enjoyment on your next camping trip.
+
+## Our picks worth a closer look
+
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

@@ -1,21 +1,21 @@
 ---
-title: "improving-soldering-skills"
+title: improving-soldering-skills
 site: tinkerbench
-topic: "household-staples"
+topic: household-staples
 tier: mvp
-cardTitle: "improving-soldering-skills"
-cardPick: "Editorial household-staples pick from TinkerBench."
+cardTitle: improving-soldering-skills
+cardPick: Editorial household-staples pick from TinkerBench.
 updatedAt: '2026-06-06T03:05:47.195Z'
 relatedProducts: []
 status: published
 subtopic: household-staples
 publishedAt: '2026-06-06T03:05:47.195Z'
-metaDescription: "improving-soldering-skills"
-excerpt: "improving-soldering-skills"
+metaDescription: improving-soldering-skills
+excerpt: improving-soldering-skills
 heroImage: /images/heroes/improving-soldering-skills.webp
 tags:
-  - tinkerbench
-  - home gym
+- tinkerbench
+- home gym
 author: marcus-webb
 ---
 
@@ -134,3 +134,10 @@ For added protection, you can apply a conformal coating to the PCB. This coating
 *   **Application:** Apply the coating according to the manufacturer's instructions. Typically, this involves spraying or brushing the coating onto the PCB and allowing it to dry.
 
 By following these techniques, you can significantly improve your soldering skills and create clean, reliable joints that will ensure the long-term performance of your electronic projects. Remember to practice regularly, experiment with different techniques, and don't be afraid to ask for help if you're struggling. Happy soldering! You might also want to check out our guide to properly maintaining your soldering tips, [5-soldering-station-tip-maintenance-that-actually-extends-tip-life](5-soldering-station-tip-maintenance-that-actually-extends-tip-life).
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

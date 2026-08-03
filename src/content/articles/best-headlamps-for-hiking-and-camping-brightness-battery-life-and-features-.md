@@ -1,9 +1,9 @@
 ---
-title: "Best Headlamps for Hiking and Camping: Brightness, Battery Life, and Features Compared"
-metaDescription: "A reliable headlamp is essential for any outdoor enthusiast. Whether you're setting up camp after dark, navigating a pre-dawn trail, or reading in you"
+title: 'Best Headlamps for Hiking and Camping: Brightness, Battery Life, and Features Compared'
+metaDescription: A reliable headlamp is essential for any outdoor enthusiast. Whether you're setting up camp after dark, navigating a pre-dawn trail, or reading in you
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "A reliable headlamp is essential for any outdoor enthusiast. Whether you're setting up camp after dark, navigating a pre-dawn trail, or reading in you"
+excerpt: A reliable headlamp is essential for any outdoor enthusiast. Whether you're setting up camp after dark, navigating a pre-dawn trail, or reading in you
 author: alex-mercer-pleasurewatch
 tags: []
 site: campdeck
@@ -105,3 +105,8 @@ Choosing the best headlamp depends on your priorities:
 - **Winter campers:** Fenix HM65R for cold-weather reliability.  
 
 Investing in a quality headlamp enhances safety and comfort in the outdoors. Consider your needs, test the fit, and opt for a model that balances brightness, battery life, and durability. Happy trails!
+
+## Our picks worth a closer look
+
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

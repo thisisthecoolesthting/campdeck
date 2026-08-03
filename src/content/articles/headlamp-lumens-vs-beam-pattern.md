@@ -1,21 +1,21 @@
 ---
-title: "headlamp-lumens-vs-beam-pattern"
+title: headlamp-lumens-vs-beam-pattern
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "headlamp-lumens-vs-beam-pattern"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: headlamp-lumens-vs-beam-pattern
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.839Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.839Z'
-metaDescription: "headlamp-lumens-vs-beam-pattern"
-excerpt: "headlamp-lumens-vs-beam-pattern"
+metaDescription: headlamp-lumens-vs-beam-pattern
+excerpt: headlamp-lumens-vs-beam-pattern
 heroImage: /images/heroes/headlamp-lumens-vs-beam-pattern.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -75,3 +75,8 @@ There is one scenario where raw lumens matter: high-speed movement. If you are t
 For 90% of campers—backpackers, car campers, and thru-hikers—the priority should be a beam pattern that favors a wide flood. You are rarely walking at a pace that requires seeing 200 yards ahead. You are almost always looking at your feet, your stove, or your tent zipper.
 
 Ultimately, the best headlamp is the one you forget you are wearing. If you find yourself constantly adjusting the angle, dimming the light, or fighting the beam pattern to see what you are doing, you’ve bought for the marketing, not for the trail. Choose a light that balances its output with a beam that works for the tasks you actually perform. For more help on gear selection, check out our [navigation buying mistakes to avoid](/navigation-buying-mistakes-to-avoid) to ensure your headlamp works in tandem with your other essential gear.
+
+## Our picks worth a closer look
+
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

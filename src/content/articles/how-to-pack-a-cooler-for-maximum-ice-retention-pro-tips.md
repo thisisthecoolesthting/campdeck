@@ -1,9 +1,9 @@
 ---
-title: "How to Pack a Cooler for Maximum Ice Retention: Pro Tips"
-metaDescription: "Keeping your food and drinks cold during a camping trip is essential for both safety and enjoyment. Whether you’re spending a weekend in the woods or"
+title: 'How to Pack a Cooler for Maximum Ice Retention: Pro Tips'
+metaDescription: Keeping your food and drinks cold during a camping trip is essential for both safety and enjoyment. Whether you’re spending a weekend in the woods or
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Keeping your food and drinks cold during a camping trip is essential for both safety and enjoyment. Whether you’re spending a weekend in the woods or"
+excerpt: Keeping your food and drinks cold during a camping trip is essential for both safety and enjoyment. Whether you’re spending a weekend in the woods or
 author: alex-mercer-pleasurewatch
 tags: []
 site: campdeck
@@ -70,3 +70,8 @@ When shopping for a cooler, keep these features in mind:
 5. **Additional Features**: Consider extras like built-in bottle openers, cup holders, or compatibility with accessories like dividers or carts.
 
 By following these tips and choosing the right cooler for your needs, you can ensure that your food stays fresh and your drinks stay cold throughout your camping adventure. Happy trails!
+
+## Our picks worth a closer look
+
+- **[Osprey Atmos AG 65 Men's Backpacking Pack](/products/b001gisxna-osprey-atmos-ag-65-backpack/)** — see current price and specs.
+

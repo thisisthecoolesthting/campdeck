@@ -1,30 +1,30 @@
 ---
-asin: "B00NKPMPEO"
-slug: "b00nkpmpeo-msr-hubba-nx-1-person-tent"
-title: "MSR Hubba NX Solo Backpacking Tent"
-seoTitle: "MSR Hubba NX 1-Person Tent Review | CampDeck"
-metaDescription: "MSR Hubba NX: packed weight, pole durability, waterproofing in heavy rain, and how it compares to the Big Agnes Copper Spur."
-cardTitle: "MSR Hubba NX"
-cardPick: "Best ultralight solo tent for 3-season use"
-category: "backpacking-tents"
+asin: B00NKPMPEO
+slug: b00nkpmpeo-msr-hubba-nx-1-person-tent
+title: MSR Hubba NX Solo Backpacking Tent
+seoTitle: MSR Hubba NX 1-Person Tent Review | CampDeck
+metaDescription: 'MSR Hubba NX: packed weight, pole durability, waterproofing in heavy rain, and how it compares to the Big Agnes Copper Spur.'
+cardTitle: MSR Hubba NX
+cardPick: Best ultralight solo tent for 3-season use
+category: backpacking-tents
 price: 429.99
 rating: 4.7
 reviewCount: 3840
 bsr: 185
 commissionPerSale: 0.0
 score: 47.4
-imageUrl: "/images/amazon-picks/B00NKPMPEO.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B00NKPMPEO?tag=campdeck-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B00NKPMPEO.jpg
+affiliateUrl: https://www.amazon.com/dp/B00NKPMPEO?tag=campdeck-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T15:07:57+00:00'
 tags:
-  - tent
-  - backpacking
-  - ultralight
-  - 3-season
-author: "jordan-vale"
+- tent
+- backpacking
+- ultralight
+- 3-season
+author: jordan-vale
 ---
 # MSR Hubba NX — Solo Tent for Conditions That Test Gear
 

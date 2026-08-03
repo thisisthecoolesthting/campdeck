@@ -1,30 +1,30 @@
 ---
-asin: "B00XVYWXLC"
-slug: "b00xvywxlc-black-diamond-spot-350-headlamp"
-title: "Black Diamond Spot 350 Headlamp"
-seoTitle: "Black Diamond Spot 350 Headlamp Review | CampDeck"
-metaDescription: "Black Diamond Spot 350: lumen output at different modes, burn time, waterproof rating, and comparison to the Petzl Actik Core."
-cardTitle: "BD Spot 350"
-cardPick: "Best trail headlamp under $40"
-category: "headlamps"
+asin: B00XVYWXLC
+slug: b00xvywxlc-black-diamond-spot-350-headlamp
+title: Black Diamond Spot 350 Headlamp
+seoTitle: Black Diamond Spot 350 Headlamp Review | CampDeck
+metaDescription: 'Black Diamond Spot 350: lumen output at different modes, burn time, waterproof rating, and comparison to the Petzl Actik Core.'
+cardTitle: BD Spot 350
+cardPick: Best trail headlamp under $40
+category: headlamps
 price: 39.99
 rating: 4.7
 reviewCount: 9280
 bsr: 92
 commissionPerSale: 0.0
 score: 47.9
-imageUrl: "/images/amazon-picks/B00XVYWXLC.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B00XVYWXLC?tag=campdeck-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B00XVYWXLC.jpg
+affiliateUrl: https://www.amazon.com/dp/B00XVYWXLC?tag=campdeck-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T15:07:57+00:00'
 tags:
-  - headlamp
-  - lighting
-  - backpacking
-  - waterproof
-author: "jordan-vale"
+- headlamp
+- lighting
+- backpacking
+- waterproof
+author: jordan-vale
 ---
 # Black Diamond Spot 350 — Consistent Performance Across Conditions
 

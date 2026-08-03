@@ -2,10 +2,9 @@
 asin: B001QY8QXM
 title: Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)
 seoTitle: Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5) — review
-metaDescription: Hands-on notes on Astra Platinum Double Edge Safety Razor Blades,100
-  Blades (20 x 5).
+metaDescription: Hands-on notes on Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5).
 category: cartridges
-price: 9.99
+price: 12.12
 rating: 4.6
 bsr: 9
 commissionPerSale: 0
@@ -15,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B001QY8QXM?tag=campdeck-20
 isPrime: false
 status: draft
 firstSeen: '2026-06-02'
-lastSeen: '2026-06-02'
+lastSeen: '2026-08-03T15:07:57+00:00'
 slug: b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20
 cardTitle: Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)
 cardPick: Solid pick for most readers

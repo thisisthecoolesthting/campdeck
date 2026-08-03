@@ -1,9 +1,9 @@
 ---
-title: "The Ultimate Checklist for Your First Overnight Backpacking Trip"
-metaDescription: "Embarking on your first overnight backpacking trip is an exciting milestone, but proper preparation is key to staying safe and comfortable. Whether yo"
+title: The Ultimate Checklist for Your First Overnight Backpacking Trip
+metaDescription: Embarking on your first overnight backpacking trip is an exciting milestone, but proper preparation is key to staying safe and comfortable. Whether yo
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "Embarking on your first overnight backpacking trip is an exciting milestone, but proper preparation is key to staying safe and comfortable. Whether yo"
+excerpt: Embarking on your first overnight backpacking trip is an exciting milestone, but proper preparation is key to staying safe and comfortable. Whether yo
 author: alex-mercer-pleasurewatch
 tags: []
 site: campdeck
@@ -136,3 +136,11 @@ Embarking on your first overnight backpacking trip is an exciting milestone, but
 - **Leave No Trace:** Pack out all trash and minimize campfire impact.  
 
 With this checklist, you’ll be well-prepared for a safe and enjoyable first backpacking trip. Happy trails!
+
+## Our picks worth a closer look
+
+- **[Osprey Atmos AG 65 Men's Backpacking Pack](/products/b001gisxna-osprey-atmos-ag-65-backpack/)** — see current price and specs.
+- **[Nalgene 32oz Tritan Wide Mouth BPA Free Water Bottle](/products/b003ocrcfq-nalgene-32oz-wide-mouth-bottle/)** — see current price and specs.
+- **[MSR Hubba NX Solo Backpacking Tent](/products/b00nkpmpeo-msr-hubba-nx-1-person-tent/)** — see current price and specs.
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

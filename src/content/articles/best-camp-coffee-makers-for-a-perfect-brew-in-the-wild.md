@@ -1,9 +1,9 @@
 ---
-title: "Best Camp Coffee Makers for a Perfect Brew in the Wild"
-metaDescription: "For many campers, a morning cup of coffee is non-negotiable. Whether you’re waking up to a misty sunrise or fueling up for a long hike, having the rig"
+title: Best Camp Coffee Makers for a Perfect Brew in the Wild
+metaDescription: For many campers, a morning cup of coffee is non-negotiable. Whether you’re waking up to a misty sunrise or fueling up for a long hike, having the rig
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "For many campers, a morning cup of coffee is non-negotiable. Whether you’re waking up to a misty sunrise or fueling up for a long hike, having the rig"
+excerpt: For many campers, a morning cup of coffee is non-negotiable. Whether you’re waking up to a misty sunrise or fueling up for a long hike, having the rig
 author: alex-mercer-pleasurewatch
 tags: []
 site: campdeck
@@ -127,3 +127,8 @@ When choosing a camp coffee maker, consider:
 ### Final Thoughts  
 
 The best camp coffee maker depends on your priorities—weight, brew style, and group size. For backpacking, the **AeroPress Go** or **GSI Java Drip** are unbeatable. Car campers might prefer the **Stanley French Press** or **Coleman Percolator**. No matter your choice, a great cup of coffee in the wild is worth the effort!
+
+## Our picks worth a closer look
+
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+

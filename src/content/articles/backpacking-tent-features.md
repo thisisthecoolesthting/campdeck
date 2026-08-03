@@ -1,21 +1,21 @@
 ---
-title: "backpacking-tent-features"
+title: backpacking-tent-features
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "backpacking-tent-features"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: backpacking-tent-features
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.783Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.783Z'
-metaDescription: "backpacking-tent-features"
-excerpt: "backpacking-tent-features"
+metaDescription: backpacking-tent-features
+excerpt: backpacking-tent-features
 heroImage: /images/heroes/backpacking-tent-features.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -85,3 +85,11 @@ The best backpacking tents offer adjustable ventilation options, allowing you to
 Don't overlook ground-level vents. These vents can be surprisingly effective at creating airflow, particularly in warmer conditions. They also help to exhaust heavier, moist air that tends to accumulate near the ground.
 
 Ultimately, the best backpacking tent for *you* will depend on your individual needs and priorities. Consider the type of trips you typically take, the weather conditions you expect to encounter, and the amount of gear you carry. By carefully evaluating the vestibule, door configuration, and ventilation options, you can choose a tent that provides optimal comfort, protection, and usability on the trail. Don't forget to check out our article on [How to compare tents before you buy](how-to-compare-tents-before-you-buy) for more general tips!
+
+## Our picks worth a closer look
+
+- **[MSR Hubba NX Solo Backpacking Tent](/products/b00nkpmpeo-msr-hubba-nx-1-person-tent/)** — see current price and specs.
+- **[Osprey Atmos AG 65 Men's Backpacking Pack](/products/b001gisxna-osprey-atmos-ag-65-backpack/)** — see current price and specs.
+- **[Nalgene 32oz Tritan Wide Mouth BPA Free Water Bottle](/products/b003ocrcfq-nalgene-32oz-wide-mouth-bottle/)** — see current price and specs.
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

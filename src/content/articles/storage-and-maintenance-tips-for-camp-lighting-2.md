@@ -1,21 +1,21 @@
 ---
-title: "storage-and-maintenance-tips-for-camp-lighting-2"
+title: storage-and-maintenance-tips-for-camp-lighting-2
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "storage-and-maintenance-tips-for-camp-lighting-2"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: storage-and-maintenance-tips-for-camp-lighting-2
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.861Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.861Z'
-metaDescription: "storage-and-maintenance-tips-for-camp-lighting-2"
-excerpt: "storage-and-maintenance-tips-for-camp-lighting-2"
+metaDescription: storage-and-maintenance-tips-for-camp-lighting-2
+excerpt: storage-and-maintenance-tips-for-camp-lighting-2
 heroImage: /images/heroes/storage-and-maintenance-tips-for-camp-lighting-2.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -48,3 +48,8 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 - [A practical camp-lighting gift guide (3)](/articles/a-practical-camp-lighting-gift-guide-3/)
 - [The quiet features that make camp-lighting easier to use](/articles/the-quiet-features-that-make-camp-lighting-easier-to-use/)
+
+## Our picks worth a closer look
+
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

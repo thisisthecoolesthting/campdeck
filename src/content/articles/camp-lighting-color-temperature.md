@@ -1,21 +1,21 @@
 ---
-title: "camp-lighting-color-temperature"
+title: camp-lighting-color-temperature
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "camp-lighting-color-temperature"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: camp-lighting-color-temperature
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.826Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.826Z'
-metaDescription: "camp-lighting-color-temperature"
-excerpt: "camp-lighting-color-temperature"
+metaDescription: camp-lighting-color-temperature
+excerpt: camp-lighting-color-temperature
 heroImage: /images/heroes/camp-lighting-color-temperature.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -85,3 +85,8 @@ Beyond color temperature, several other features are important to consider when 
 *   **Adjustable Brightness and Color Temperature:** The most versatile camp lighting options offer adjustable brightness and color temperature, allowing you to customize the light to your specific needs. These might be slightly more expensive upfront but pay dividends on the trail.
 
 Ultimately, the best camp lighting for you will depend on your individual needs and preferences. Consider the types of activities you'll be doing, the conditions you'll be camping in, and the features that are most important to you. Don't be afraid to experiment with different options until you find the perfect fit.
+
+## Our picks worth a closer look
+
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+

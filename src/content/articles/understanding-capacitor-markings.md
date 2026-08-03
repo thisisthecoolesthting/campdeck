@@ -1,21 +1,21 @@
 ---
-title: "understanding-capacitor-markings"
+title: understanding-capacitor-markings
 site: tinkerbench
-topic: "household-staples"
+topic: household-staples
 tier: mvp
-cardTitle: "understanding-capacitor-markings"
-cardPick: "Editorial household-staples pick from TinkerBench."
+cardTitle: understanding-capacitor-markings
+cardPick: Editorial household-staples pick from TinkerBench.
 updatedAt: '2026-06-06T03:05:47.216Z'
 relatedProducts: []
 status: published
 subtopic: household-staples
 publishedAt: '2026-06-06T03:05:47.216Z'
-metaDescription: "understanding-capacitor-markings"
-excerpt: "understanding-capacitor-markings"
+metaDescription: understanding-capacitor-markings
+excerpt: understanding-capacitor-markings
 heroImage: /images/heroes/understanding-capacitor-markings.webp
 tags:
-  - tinkerbench
-  - home gym
+- tinkerbench
+- home gym
 author: marcus-webb
 ---
 
@@ -123,3 +123,10 @@ Some capacitors include a date code, indicating the date of manufacture. This ca
 Capacitors used in mains-powered equipment may have safety certifications, such as UL, VDE, or CSA markings. These certifications indicate that the capacitor has been tested and approved for use in specific applications and voltage ranges.
 
 Understanding capacitor markings is an essential skill for any electronics hobbyist or professional. By carefully interpreting the capacitance value, voltage rating, tolerance, and other markings, you can select the right capacitor for your project, troubleshoot problems effectively, and ensure the safe and reliable operation of your circuits. Before starting any project, take a look at the [Arduino Uno Rev3](/products/b008grtsv6-arduino-uno-rev3-a000066-atmega328p-microcontroller-16mhz-14/) to see if it contains the right capacitors for your next build.
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+

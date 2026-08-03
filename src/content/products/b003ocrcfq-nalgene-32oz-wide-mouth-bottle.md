@@ -1,30 +1,30 @@
 ---
-asin: "B003OCRCFQ"
-slug: "b003ocrcfq-nalgene-32oz-wide-mouth-bottle"
-title: "Nalgene 32oz Tritan Wide Mouth BPA Free Water Bottle"
-seoTitle: "Nalgene 32oz Wide Mouth Review | CampDeck"
-metaDescription: "Nalgene 32oz Tritan wide mouth vs. Hydro Flask vs. Platypus collapsible: weight, durability, and when each type is the right choice."
-cardTitle: "Nalgene 32oz Wide Mouth"
-cardPick: "Most durable rigid trail bottle"
-category: "water-bottles"
+asin: B003OCRCFQ
+slug: b003ocrcfq-nalgene-32oz-wide-mouth-bottle
+title: Nalgene 32oz Tritan Wide Mouth BPA Free Water Bottle
+seoTitle: Nalgene 32oz Wide Mouth Review | CampDeck
+metaDescription: 'Nalgene 32oz Tritan wide mouth vs. Hydro Flask vs. Platypus collapsible: weight, durability, and when each type is the right choice.'
+cardTitle: Nalgene 32oz Wide Mouth
+cardPick: Most durable rigid trail bottle
+category: water-bottles
 price: 12.99
 rating: 4.8
 reviewCount: 42680
 bsr: 18
 commissionPerSale: 0.0
 score: 52.3
-imageUrl: "/images/amazon-picks/B003OCRCFQ.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B003OCRCFQ?tag=campdeck-20&linkCode=ll1&language=en_US"
+imageUrl: /images/amazon-picks/B003OCRCFQ.jpg
+affiliateUrl: https://www.amazon.com/dp/B003OCRCFQ?tag=campdeck-20&linkCode=ll1&language=en_US
 isPrime: true
-status: "published"
-firstSeen: "2026-05-13T00:00:00+00:00"
-lastSeen: "2026-05-13T00:00:00+00:00"
+status: published
+firstSeen: '2026-05-13T00:00:00+00:00'
+lastSeen: '2026-08-03T15:07:57+00:00'
 tags:
-  - water-bottle
-  - hydration
-  - backpacking
-  - durable
-author: "jordan-vale"
+- water-bottle
+- hydration
+- backpacking
+- durable
+author: jordan-vale
 ---
 # Nalgene 32oz — The Baseline Trail Bottle for Good Reason
 

@@ -1,9 +1,9 @@
 ---
-title: "Buying Guide: What to Consider When Buying a Camping Cot"
-metaDescription: "A camping cot is a game-changer for outdoor enthusiasts who want to sleep comfortably off the ground. Unlike sleeping pads or air mattresses, cots pro"
+title: 'Buying Guide: What to Consider When Buying a Camping Cot'
+metaDescription: A camping cot is a game-changer for outdoor enthusiasts who want to sleep comfortably off the ground. Unlike sleeping pads or air mattresses, cots pro
 publishedAt: 2026-06-22
 updatedAt: 2026-06-22
-excerpt: "A camping cot is a game-changer for outdoor enthusiasts who want to sleep comfortably off the ground. Unlike sleeping pads or air mattresses, cots pro"
+excerpt: A camping cot is a game-changer for outdoor enthusiasts who want to sleep comfortably off the ground. Unlike sleeping pads or air mattresses, cots pro
 author: alex-mercer-pleasurewatch
 tags: []
 site: campdeck
@@ -95,3 +95,9 @@ A cot with slight flex (like a hammock) can be more comfortable for side sleeper
 - **Consider Accessories**: Cot organizers or side tables can enhance convenience.  
 
 A well-chosen camping cot can make your outdoor adventures more enjoyable by providing a restful night’s sleep. Prioritize your needs—whether it’s portability, comfort, or durability—and you’ll find the perfect fit for your camping style.
+
+## Our picks worth a closer look
+
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+

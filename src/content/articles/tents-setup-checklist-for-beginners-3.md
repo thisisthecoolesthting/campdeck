@@ -1,21 +1,21 @@
 ---
-title: "tents-setup-checklist-for-beginners-3"
+title: tents-setup-checklist-for-beginners-3
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "tents-setup-checklist-for-beginners-3"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: tents-setup-checklist-for-beginners-3
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.865Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.865Z'
-metaDescription: "tents-setup-checklist-for-beginners-3"
-excerpt: "tents-setup-checklist-for-beginners-3"
+metaDescription: tents-setup-checklist-for-beginners-3
+excerpt: tents-setup-checklist-for-beginners-3
 heroImage: /images/heroes/tents-setup-checklist-for-beginners-3.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -48,3 +48,8 @@ Before buying, confirm measurements, check what is included in the box, and scan
 
 - [Best tents upgrades for small spaces](/articles/best-tents-upgrades-for-small-spaces/)
 - [How to compare tents before you buy (2)](/articles/how-to-compare-tents-before-you-buy-2/)
+
+## Our picks worth a closer look
+
+- **[MSR Hubba NX Solo Backpacking Tent](/products/b00nkpmpeo-msr-hubba-nx-1-person-tent/)** — see current price and specs.
+

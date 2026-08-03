@@ -1,21 +1,21 @@
 ---
-title: "water-filters-essentials-for-weekend-projects-2"
+title: water-filters-essentials-for-weekend-projects-2
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "water-filters-essentials-for-weekend-projects-2"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: water-filters-essentials-for-weekend-projects-2
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.875Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.875Z'
-metaDescription: "water-filters-essentials-for-weekend-projects-2"
-excerpt: "water-filters-essentials-for-weekend-projects-2"
+metaDescription: water-filters-essentials-for-weekend-projects-2
+excerpt: water-filters-essentials-for-weekend-projects-2
 heroImage: /images/heroes/water-filters-essentials-for-weekend-projects-2.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -50,3 +50,8 @@ Before buying, confirm measurements, check what is included in the box, and scan
 - [A practical camp-lighting gift guide (3)](/articles/a-practical-camp-lighting-gift-guide-3/)
 - [A practical trekking-poles gift guide](/articles/a-practical-trekking-poles-gift-guide/)
 - [backpacks setup checklist for beginners (2)](/articles/backpacks-setup-checklist-for-beginners-2/)
+
+## Our picks worth a closer look
+
+- **[Nalgene 32oz Tritan Wide Mouth BPA Free Water Bottle](/products/b003ocrcfq-nalgene-32oz-wide-mouth-bottle/)** — see current price and specs.
+

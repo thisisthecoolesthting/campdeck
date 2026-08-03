@@ -1,21 +1,21 @@
 ---
-title: "the-truth-about-tent-waterproof-ratings"
+title: the-truth-about-tent-waterproof-ratings
 site: campdeck
-topic: "cleaning"
+topic: cleaning
 tier: mvp
-cardTitle: "the-truth-about-tent-waterproof-ratings"
-cardPick: "Editorial cleaning pick from CampDeck."
+cardTitle: the-truth-about-tent-waterproof-ratings
+cardPick: Editorial cleaning pick from CampDeck.
 updatedAt: '2026-06-06T03:05:59.871Z'
 relatedProducts: []
 status: published
 subtopic: cleaning
 publishedAt: '2026-06-06T03:05:59.871Z'
-metaDescription: "the-truth-about-tent-waterproof-ratings"
-excerpt: "the-truth-about-tent-waterproof-ratings"
+metaDescription: the-truth-about-tent-waterproof-ratings
+excerpt: the-truth-about-tent-waterproof-ratings
 heroImage: /images/heroes/the-truth-about-tent-waterproof-ratings.webp
 tags:
-  - campdeck
-  - home gym
+- campdeck
+- home gym
 author: marcus-webb
 ---
 
@@ -97,3 +97,9 @@ Consider browsing our selection of backpacking tents to find a model that fits y
 ## Conclusion
 
 Understanding tent waterproof ratings is essential for choosing a tent that will keep you dry and comfortable on your camping trips. While the mm HH rating provides a useful benchmark, it's important to consider other factors such as fabric type, seam sealing, and design. By taking these factors into account and performing regular maintenance, you can ensure that your tent will perform well in all types of weather.
+
+## Our picks worth a closer look
+
+- **[MSR Hubba NX Solo Backpacking Tent](/products/b00nkpmpeo-msr-hubba-nx-1-person-tent/)** — see current price and specs.
+- **[Black Diamond Spot 350 Headlamp](/products/b00xvywxlc-black-diamond-spot-350-headlamp/)** — see current price and specs.
+
