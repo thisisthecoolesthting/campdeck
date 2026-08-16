@@ -25,7 +25,7 @@ Heavy monitors create unique challenges due to torque forces that increase expon
 
 ### Critical Components for Heavy-Duty Arms
 
-Premium arms like the [Ergotron HX](https://www.amazon.com/dp/B004QM8SLG?tag=chairwise-20) use three key engineering solutions:
+Premium arms like the Ergotron HX use three key engineering solutions:
 1. **Dual-stage gas springs**: Two independent pressure chambers that compensate for weight fluctuations during adjustment
 2. **Forged steel pivot joints**: CNC-machined contact surfaces that resist deformation under constant load
 3. **Torque-limiting clutches**: Prevent sudden movements when adjusting heavy displays
@@ -47,7 +47,7 @@ We measured wobble amplitudes across three scenarios using high-speed cameras an
 2. **Desk bumps (simulating shared workspaces)**: Applied 5 lb lateral forces at 2 Hz frequency
 3. **Height adjustment cycles (200+ repetitions)**: Measured resistance consistency over time
 
-The worst performers (like budget arms using single-pivot joints) showed 3.2° of deflection during typing—enough to cause noticeable screen shake. The best, like the [AmazonBasics Premium](https://www.amazon.com/dp/B0GF25F12C?tag=chairwise-20), limited movement to 0.8° even with 42 lb loads thanks to its dual-axis stabilization system.
+The worst performers (like budget arms using single-pivot joints) showed 3.2° of deflection during typing—enough to cause noticeable screen shake. The best, like the AmazonBasics Premium, limited movement to 0.8° even with 42 lb loads thanks to its dual-axis stabilization system.
 
 ### Real-World Impact on Productivity
 
@@ -85,7 +85,7 @@ In our observational study with 12 graphic designers:
 
 ## Real-world performance
 
-After 180 days of testing, the [Ergotron LX](https://www.amazon.com/dp/B093TCYF9T?tag=chairwise-20) showed zero sag with a 34-inch curved display (28 lbs), while cheaper arms with similar specs developed 1-3° of droop. The difference? Steel-reinforced pivot points versus aluminum alloys that deform under constant load.
+After 180 days of testing, the Ergotron LX showed zero sag with a 34-inch curved display (28 lbs), while cheaper arms with similar specs developed 1-3° of droop. The difference? Steel-reinforced pivot points versus aluminum alloys that deform under constant load.
 
 ### Material Science Breakdown
 
@@ -103,7 +103,7 @@ Heavy monitors require proper mounting surfaces:
 - **Reinforcement plates**: Necessary for particle board or glass desks
 - **Wall mounting**: Requires hitting at least two studs for >30 lb monitors
 
-The [VIVO Adapter Plate](https://www.amazon.com/dp/B0CGW2TFSV?tag=chairwise-20) solves VESA compatibility issues while adding only 1.2 lbs to the system.
+The VIVO Adapter Plate solves VESA compatibility issues while adding only 1.2 lbs to the system.
 
 ## Cost math
 
@@ -126,7 +126,7 @@ The break-even point comes at 4.5 years—after which premium arms actually cost
 
 ## Alternatives and refills
 
-Third-party VESA adapters can help redistribute weight for non-standard mounts, but add 1.5-3 lbs to your load calculation. The [VIVO Adapter Plate](https://www.amazon.com/dp/B0CGW2TFSV?tag=chairwise-20) supports 200x200 to 100x100 conversions without compromising stability.
+Third-party VESA adapters can help redistribute weight for non-standard mounts, but add 1.5-3 lbs to your load calculation. The VIVO Adapter Plate supports 200x200 to 100x100 conversions without compromising stability.
 
 ### Specialized Solutions
 
@@ -134,7 +134,7 @@ Third-party VESA adapters can help redistribute weight for non-standard mounts, 
 2. **Wall-mounted arms**: Require steel stud anchors (minimum 3/8" diameter)
 3. **Motorized arms**: Linak's D6 system handles up to 66 lbs but costs $1,200+
 
-For creative professionals, consider the [FLEXIMOUNTS M13](https://www.amazon.com/dp/B0C4Y3W71R?tag=chairwise-20) which offers 45 lbs capacity with a unique counterbalance system.
+For creative professionals, consider the FLEXIMOUNTS M13 which offers 45 lbs capacity with a unique counterbalance system.
 
 ## Related reading
 
@@ -156,7 +156,7 @@ Not necessarily, but gas springs (like in the AmazonBasics Premium) maintain ten
 
 ### Can I use a single arm for dual heavy monitors?
 
-Only with a crossbar mount. Two 25 lb monitors on a single arm create 50+ lbs of torque that exceeds most arms' hinge ratings. The [HUANUO Dual Monitor Stand](https://www.amazon.com/dp/B08B5W5G5H?tag=chairwise-20) uses a reinforced center post to handle this load.
+Only with a crossbar mount. Two 25 lb monitors on a single arm create 50+ lbs of torque that exceeds most arms' hinge ratings. The HUANUO Dual Monitor Stand uses a reinforced center post to handle this load.
 
 ### Why do some arms wobble more than others?
 
@@ -164,11 +164,11 @@ Pivot point quality matters more than weight rating. Look for arms with steel-on
 
 ### How thick should my desk be for a grommet mount?
 
-Minimum 1.5" for sub-30 lb loads, 2.5"+ for heavier setups. Particle board requires reinforcement plates to prevent crushing. We recommend the [VIVO Desk Reinforcement Plate](https://www.amazon.com/dp/B07P5ST5XJ?tag=chairwise-20) for desks under 2" thick.
+Minimum 1.5" for sub-30 lb loads, 2.5"+ for heavier setups. Particle board requires reinforcement plates to prevent crushing. We recommend the VIVO Desk Reinforcement Plate for desks under 2" thick.
 
 ## Bottom line
 
-For most users with 30-40 lb monitors, the [AmazonBasics Premium Arm](https://www.amazon.com/dp/B0GF25F12C?tag=chairwise-20) delivers 90% of the Ergotron HX's stability at half the price. Only consider the HX if you're constantly adjusting a 42+ lb display or need the industry-leading 15-year warranty. Avoid budget arms for anything over 25 lbs—their components simply aren't engineered for sustained heavy loads.
+For most users with 30-40 lb monitors, the AmazonBasics Premium Arm delivers 90% of the Ergotron HX's stability at half the price. Only consider the HX if you're constantly adjusting a 42+ lb display or need the industry-leading 15-year warranty. Avoid budget arms for anything over 25 lbs—their components simply aren't engineered for sustained heavy loads.
 
 ### Final Recommendations by Use Case
 

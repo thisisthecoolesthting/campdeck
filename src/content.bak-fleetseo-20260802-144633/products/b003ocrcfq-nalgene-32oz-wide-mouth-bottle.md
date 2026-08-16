@@ -14,7 +14,7 @@ bsr: 18
 commissionPerSale: 0.0
 score: 52.3
 imageUrl: "/images/amazon-picks/B003OCRCFQ.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B003OCRCFQ?tag=campdeck-20&linkCode=ll1&language=en_US"
+affiliateUrl: "https://www.amazon.com/dp/B003OCRCFQ&language=en_US"
 isPrime: true
 status: "published"
 firstSeen: "2026-05-13T00:00:00+00:00"

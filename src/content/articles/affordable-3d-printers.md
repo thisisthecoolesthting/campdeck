@@ -38,9 +38,9 @@ A bad $300 printer can cost you $800 in wasted filament and replacement parts. W
 
 2. **Z-axis wobble**: Loose lead screws on the Sovol SV01 caused visible layer shifts after 200 hours, while the dual-Z-axis Artillery Genius showed no degradation.
 
-3. **Bed adhesion**: The magnetic PEI sheet on the [Anycubic Kobra Go](https://www.amazon.com/dp/B0G63G9LRJ?tag=tinkerbench-20) required zero glue sticks, whereas the basic Ender 3's glass bed needed hairspray for PLA adhesion.
+3. **Bed adhesion**: The magnetic PEI sheet on the Anycubic Kobra Go required zero glue sticks, whereas the basic Ender 3's glass bed needed hairspray for PLA adhesion.
 
-For Arduino enclosure printing, these factors determine whether your print finishes overnight or becomes spaghetti at 3 AM. We also found huge differences in slicer software quality - Cura profiles for the [Creality Ender 3 V2](https://www.amazon.com/dp/B08PZBPXLZ?tag=tinkerbench-20) required 30% less support material than generic profiles.
+For Arduino enclosure printing, these factors determine whether your print finishes overnight or becomes spaghetti at 3 AM. We also found huge differences in slicer software quality - Cura profiles for the Creality Ender 3 V2 required 30% less support material than generic profiles.
 
 Additionally, we noted that printers with better cooling systems, like the Anycubic Kobra Go, produced cleaner overhangs and bridges. This is crucial for complex prints like figurines or mechanical parts. We also evaluated the noise levels, as some printers are suitable for home use while others are better suited for workshops.
 
@@ -63,13 +63,13 @@ We also tested print quality at different layer heights. The Creality Ender 3 V2
 
 After 30 consecutive 6-hour prints of benchy boats:
 
-1. The [Anycubic Kobra Go](https://www.amazon.com/dp/B0G63G9LRJ?tag=tinkerbench-20) maintained 0.1mm layer consistency, but its plastic extruder arm cracked at 275 hours (a $15 metal upgrade fixes this)
+1. The Anycubic Kobra Go maintained 0.1mm layer consistency, but its plastic extruder arm cracked at 275 hours (a $15 metal upgrade fixes this)
 
 2. The Ender 3 V2's PTFE tube degraded at the hotend, requiring replacement after 400 hours (common to all PTFE-lined hotends)
 
 3. The Artillery Genius showed no measurable wear but consumed 22% more power due to its always-on bed heater
 
-For functional parts, the [Sovol SV01](https://www.amazon.com/dp/B0DHV8SCLS?tag=tinkerbench-20) produced the strongest layer adhesion (63MPa vs 58MPa on others) thanks to its dual-gear extruder, but only when using premium PLA.
+For functional parts, the Sovol SV01 produced the strongest layer adhesion (63MPa vs 58MPa on others) thanks to its dual-gear extruder, but only when using premium PLA.
 
 We also tested the printers with different filament brands. The Creality Ender 3 V2 worked well with budget filaments, while the Anycubic Kobra Go required higher-quality filaments to achieve optimal results. The Sovol SV01 was the most versatile, handling both budget and premium filaments with ease.
 
@@ -91,9 +91,9 @@ We also considered the long-term costs of ownership. The Creality Ender 3 V2's w
 
 ## Alternatives and Refills
 
-For **miniature painters**: The [Elegoo Mars 2](https://www.amazon.com/dp/B09VXQ221K?tag=tinkerbench-20) resin printer ($249) delivers 0.05mm details but requires toxic resin handling
+For **miniature painters**: The Elegoo Mars 2 resin printer ($249) delivers 0.05mm details but requires toxic resin handling
 
-For **classrooms**: The [Flashforge Adventurer 3](https://www.amazon.com/dp/B098JD8HD3?tag=tinkerbench-20) ($299) has enclosed operation and HEPA filtration
+For **classrooms**: The Flashforge Adventurer 3 ($299) has enclosed operation and HEPA filtration
 
 Filament deals:
 - Inland PLA+ (Micro Center) at $18/kg matches premium brands in our tensile tests
@@ -127,7 +127,7 @@ We also addressed common troubleshooting issues. For example, if your prints are
 
 ## Bottom Line
 
-For **beginners**: The [Creality Ender 3 V2](https://www.amazon.com/dp/B08PZBPXLZ?tag=tinkerbench-20) offers the best balance of reliability and upgradeability at $239. Its massive community means every problem has a YouTube fix.
+For **beginners**: The Creality Ender 3 V2 offers the best balance of reliability and upgradeability at $239. Its massive community means every problem has a YouTube fix.
 
 For **speed seekers**: The Anycubic Kobra Go's 150mm/s printing justifies its $40 premium, but budget $55 for metal extruder and Capricorn tubing upgrades.
 

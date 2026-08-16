@@ -83,28 +83,28 @@ This rigorous approach revealed that while all supplements contained similar ing
 
 | Supplement | Key Ingredients | Daily Cost | Our Dog's Response | Best For |
 |------------|-----------------|------------|--------------------|----------|
-| [Nutramax Cosequin DS Plus](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) | Glucosamine 600mg, Chondroitin 300mg, MSM 250mg | $0.87 | 15% faster stair climbing by week 6 | Dogs 50-90lbs with moderate stiffness |
-| [Zesty Paws Mobility Bites](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) | Glucosamine 400mg, Hyaluronic Acid 40mg, Turmeric | $0.92 | Preferred taste, less noticeable stiffness | Picky eaters or dogs needing appetite support |
-| [Dasuquin with MSM](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) | Glucosamine 600mg, ASU (avocado/soybean unsaponifiables) | $1.12 | 20% improvement in 'rise test' times | Advanced arthritis in large breeds |
-| [PetHonesty Hip & Joint](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) | Glucosamine 300mg, Chondroitin 100mg, Omega-3s | $0.65 | Mild improvement for small dogs under 30lbs | Early-stage joint support |
-| [GlycoFlex Stage 3](https://www.amazon.com/dp/B07P9L3QYW?tag=silvertail-20) | Glucosamine 500mg, Perna Canaliculus 150mg | $1.05 | Significant relief for dogs with diagnosed osteoarthritis | Severe joint degeneration |
+| Nutramax Cosequin DS Plus | Glucosamine 600mg, Chondroitin 300mg, MSM 250mg | $0.87 | 15% faster stair climbing by week 6 | Dogs 50-90lbs with moderate stiffness |
+| Zesty Paws Mobility Bites | Glucosamine 400mg, Hyaluronic Acid 40mg, Turmeric | $0.92 | Preferred taste, less noticeable stiffness | Picky eaters or dogs needing appetite support |
+| Dasuquin with MSM | Glucosamine 600mg, ASU (avocado/soybean unsaponifiables) | $1.12 | 20% improvement in 'rise test' times | Advanced arthritis in large breeds |
+| PetHonesty Hip & Joint | Glucosamine 300mg, Chondroitin 100mg, Omega-3s | $0.65 | Mild improvement for small dogs under 30lbs | Early-stage joint support |
+| GlycoFlex Stage 3 | Glucosamine 500mg, Perna Canaliculus 150mg | $1.05 | Significant relief for dogs with diagnosed osteoarthritis | Severe joint degeneration |
 
-Key findings: The [Nutramax Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) and [Dasuquin](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) formulas showed the most consistent results in our tests, but required 4-6 weeks for full effects. Chewable options like [Zesty Paws](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) worked faster for appetite-stimulated dogs.
+Key findings: The Nutramax Cosequin and Dasuquin formulas showed the most consistent results in our tests, but required 4-6 weeks for full effects. Chewable options like Zesty Paws worked faster for appetite-stimulated dogs.
 
-**Unexpected standout:** The [GlycoFlex Stage 3](https://www.amazon.com/dp/B07P9L3QYW?tag=silvertail-20) produced remarkable improvements in our 14-year-old German Shepherd mix with severe hip dysplasia—she regained the ability to climb onto her favorite window seat after 8 weeks of use, something we hadn't seen in two years.
+**Unexpected standout:** The GlycoFlex Stage 3 produced remarkable improvements in our 14-year-old German Shepherd mix with severe hip dysplasia—she regained the ability to climb onto her favorite window seat after 8 weeks of use, something we hadn't seen in two years.
 
 ## Real-world performance
 
 Long-term testing revealed surprises:
 
-- **Temperature sensitivity**: The [Green Lipped Mussel Complex](https://www.amazon.com/dp/B0F54TYKF9?tag=silvertail-20) capsules clumped in humid climates, requiring silica packs in the container
-- **Dosing quirks**: Moose needed 1.5x the labeled dose of [PetHonesty](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) to show improvement (vet-approved)
-- **Palatability**: 3 of 5 test dogs refused the [Synovi G4](https://www.amazon.com/dp/B085VZPR2Y?tag=silvertail-20) soft chews despite added flavoring
-- **Absorption differences**: Liquid [Flexadin Advanced](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) showed effects in 10-14 days vs. 3-4 weeks for chewables
+- **Temperature sensitivity**: The Green Lipped Mussel Complex capsules clumped in humid climates, requiring silica packs in the container
+- **Dosing quirks**: Moose needed 1.5x the labeled dose of PetHonesty to show improvement (vet-approved)
+- **Palatability**: 3 of 5 test dogs refused the Synovi G4 soft chews despite added flavoring
+- **Absorption differences**: Liquid Flexadin Advanced showed effects in 10-14 days vs. 3-4 weeks for chewables
 
-For dogs with kidney issues, the [Phycox Joint Support](https://www.amazon.com/dp/B0CGW2TFSV?tag=silvertail-20) had the safest mineral profile in bloodwork reviews. Liquid formulations like [Flexadin Advanced](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) showed faster absorption but required precise dosing.
+For dogs with kidney issues, the Phycox Joint Support had the safest mineral profile in bloodwork reviews. Liquid formulations like Flexadin Advanced showed faster absorption but required precise dosing.
 
-**Case study:** Our 9-year-old Border Collie mix showed no improvement with standard glucosamine/chondroitin supplements until we tried [Dasuquin with MSM](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20). The addition of ASU (avocado/soybean unsaponifiables) made the difference—within 6 weeks she was completing agility courses again at 80% of her previous speed.
+**Case study:** Our 9-year-old Border Collie mix showed no improvement with standard glucosamine/chondroitin supplements until we tried Dasuquin with MSM. The addition of ASU (avocado/soybean unsaponifiables) made the difference—within 6 weeks she was completing agility courses again at 80% of her previous speed.
 
 ## Cost math
 
@@ -118,26 +118,26 @@ Breaking down true monthly costs for a 60lb dog:
 | GlycoFlex 3 | $31.50 | $1.58 | 9 weeks |
 | PetHonesty | $19.50 | $2.60 | 4 weeks |
 
-Unexpected savings: The [Nutramax Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) 250-count bottle lasted our 75lb dog 83 days at maintenance dose (2 pills/day), bringing cost below generic options. Bulk purchases of [Dasuquin](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) saved 18% but required airtight storage.
+Unexpected savings: The Nutramax Cosequin 250-count bottle lasted our 75lb dog 83 days at maintenance dose (2 pills/day), bringing cost below generic options. Bulk purchases of Dasuquin saved 18% but required airtight storage.
 
 **Hidden costs to consider:**
 - Bloodwork monitoring ($120-180 annually for senior dogs)
 - Waste from rejected chews (averaged 15% loss in our tests)
 - Special storage needs (desiccant packs, refrigeration for some liquids)
 
-Our cost-per-benefit analysis showed that while [Dasuquin](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) had the highest upfront cost, it delivered the most measurable improvements per dollar spent over a six-month period.
+Our cost-per-benefit analysis showed that while Dasuquin had the highest upfront cost, it delivered the most measurable improvements per dollar spent over a six-month period.
 
 ## Alternatives and refills
 
 For budget-conscious owners:
-- **Human-grade glucosamine**: Veterinarian-approved to use human supplements like [NOW Glucosamine](https://www.amazon.com/dp/B000CBGBN6?tag=silvertail-20) at dog-adjusted doses (consult your vet)
-- **Subscription savings**: [Zesty Paws](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) offers 15% off Subscribe & Save
+- **Human-grade glucosamine**: Veterinarian-approved to use human supplements like NOW Glucosamine at dog-adjusted doses (consult your vet)
+- **Subscription savings**: Zesty Paws offers 15% off Subscribe & Save
 - **DIY options**: Bone broth (collagen) + sardines (omega-3s) provided 30-40% of supplement benefits in our tests
-- **Combination therapies**: Pairing [Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) with physical therapy showed 28% better results than supplements alone
+- **Combination therapies**: Pairing Cosequin with physical therapy showed 28% better results than supplements alone
 
 Warning: Avoid 'joint health' treats with less than 300mg glucosamine per serving—they're often just expensive snacks. We tested six popular 'joint biscuit' products and found most contained less than 100mg of active ingredients per treat.
 
-**Pro tip:** Many veterinary clinics offer manufacturer rebates on [Dasuquin](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) and [Cosequin](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20)—we saved $42 over six months by submitting receipts through the Nutramax rebate program.
+**Pro tip:** Many veterinary clinics offer manufacturer rebates on Dasuquin and Cosequin—we saved $42 over six months by submitting receipts through the Nutramax rebate program.
 
 ## FAQ
 
@@ -147,18 +147,18 @@ Most dogs show subtle improvement in 2-3 weeks, with peak effects at 6-8 weeks. 
 
 ### Can I give human supplements to my dog?
 
-Some—but human chondroitin often comes from bovine trachea, which can upset canine stomachs. We had success with [NOW Glucosamine](https://www.amazon.com/dp/B000CBGBN6?tag=silvertail-20) in divided doses. Important exceptions:
+Some—but human chondroitin often comes from bovine trachea, which can upset canine stomachs. We had success with NOW Glucosamine in divided doses. Important exceptions:
 - Never give human CBD products to dogs (dosing differences)
 - Avoid human MSM supplements with added flavors/sweeteners
 - Check for xylitol in any human-grade chewables
 
 ### What about CBD for joints?
 
-While CBD helps with discomfort, it doesn't rebuild cartilage like glucosamine/chondroitin. We use [Honest Paws CBD](https://www.amazon.com/dp/B07Z6TV9Y7?tag=silvertail-20) alongside Dasuquin for our arthritic shepherd. Recent studies show CBD's anti-inflammatory effects may complement traditional joint supplements when used together.
+While CBD helps with discomfort, it doesn't rebuild cartilage like glucosamine/chondroitin. We use Honest Paws CBD alongside Dasuquin for our arthritic shepherd. Recent studies show CBD's anti-inflammatory effects may complement traditional joint supplements when used together.
 
 ### Are liquid supplements better?
 
-Liquids like [Flexadin](https://www.amazon.com/dp/B074ND5RDT?tag=silvertail-20) absorb faster but require precise dosing. Chews work better for multi-dog households. Our absorption tests showed:
+Liquids like Flexadin absorb faster but require precise dosing. Chews work better for multi-dog households. Our absorption tests showed:
 - Liquids: 85-90% bioavailability within 2 hours
 - Soft chews: 60-70% bioavailability in 4-6 hours
 - Tablets: 50-60% bioavailability unless crushed and mixed with food
@@ -172,9 +172,9 @@ Ideal at age 6-7 for large breeds, 8-9 for small dogs. Early use helps preserve 
 
 ## Bottom line
 
-After three years of testing, [Nutramax Cosequin DS Plus](https://www.amazon.com/dp/B004QM8SLG?tag=silvertail-20) delivered the most consistent improvements across our senior dogs, with [Dasuquin](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) being worth the extra cost for dogs with diagnosed arthritis. For picky eaters, the [Zesty Paws Mobility Bites](https://www.amazon.com/dp/B093TCYF9T?tag=silvertail-20) were the only supplement all test dogs consumed reliably. Start with a 90-day trial of any supplement—real joint support requires sustained use.
+After three years of testing, Nutramax Cosequin DS Plus delivered the most consistent improvements across our senior dogs, with Dasuquin being worth the extra cost for dogs with diagnosed arthritis. For picky eaters, the Zesty Paws Mobility Bites were the only supplement all test dogs consumed reliably. Start with a 90-day trial of any supplement—real joint support requires sustained use.
 
-**Final recommendation:** For dogs under 50lbs showing early stiffness, [PetHonesty](https://www.amazon.com/dp/B0GF25F12C?tag=silvertail-20) provides adequate support at a reasonable cost. Large breeds with existing joint issues should invest in [Dasuquin](https://www.amazon.com/dp/B0CB75LML9?tag=silvertail-20) or [GlycoFlex 3](https://www.amazon.com/dp/B07P9L3QYW?tag=silvertail-20). All owners should combine supplements with:
+**Final recommendation:** For dogs under 50lbs showing early stiffness, PetHonesty provides adequate support at a reasonable cost. Large breeds with existing joint issues should invest in Dasuquin or GlycoFlex 3. All owners should combine supplements with:
 - Weight management (even 5lbs overweight stresses joints)
 - Low-impact exercise (swimming is ideal)
 - Orthopedic bedding
